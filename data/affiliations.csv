@@ -1,0 +1,557 @@
+affiliation_id,affilname,city,country,author_id
+e2787a34-f0d8-4bf2-aaae-5c6d21dfb0f3,Laboratoire de Recherche en Sciences de Gestion Panthéon-Assas (LARGEPA),Paris,France,a6a42110-5a31-4328-8370-01fdb6f08e63
+86f2b643-f45f-4cde-90b3-dab680f3c124,Mohammed VI Polytechnic University,Ben Guerir,Morocco,a6a42110-5a31-4328-8370-01fdb6f08e63
+cf25d99c-1101-4e9c-b12a-cf2000ba8ffe,Research and Development Agency of West Java Province,West Jakarta,Indonesia,1204f286-b322-452e-ad8b-383ea1ec5eb0
+29903cea-35e2-440e-b48a-04a1111c6a87,The George Washington University,"Washington, D.C.",United States,251af653-31ca-4fed-b5c8-752c3a0666e1
+5f63766c-32de-4727-9842-4ecd34acb771,Hubei University of Technology,Wuhan,China,31559ce9-480a-4f1e-a3c5-2e3d4e75cbf3
+b324aac9-7005-4965-a784-ae702d790c8f,Zhongnan University of Economics and Law,Wuhan,China,31559ce9-480a-4f1e-a3c5-2e3d4e75cbf3
+30e40baf-fd69-4f54-82c1-a70fb1e53e16,Hubei Circular Economy Development Research Center,Wuhan,China,31559ce9-480a-4f1e-a3c5-2e3d4e75cbf3
+296cf660-80d8-487c-a0f0-c4ba32d14c7a,Université Abdelmalek Essaadi,Tetouan,Morocco,34f98838-bff2-4c85-b85d-6291c2d459e5
+01003373-eb33-4d87-a0f9-77866cfcf2d4,Université Sidi Mohamed Ben Abdellah,Fez,Morocco,77a89f7c-4b0f-4ace-96cf-a56e313fbf8b
+73b456ad-f713-4087-8336-53bfa7529020,"Faculty of Science, Ibn Tofail University",Kenitra,Morocco,5c4f0fd6-b5a6-4d4a-bbf1-5d958e7a778f
+947c7299-1bff-4b1d-97b7-56175b0dacc3,Nederlands Interdisciplinair Demografisch Instituut,The Hague,Netherlands,76690a5c-efc7-47ca-86a6-322d1f7e0669
+1b2824f1-1c0c-439d-98f3-30d46328a642,Kansas State University,Manhattan,United States,29d7e9fd-8fcc-4275-a45e-72bd65e74f7f
+801b29cc-a35f-4391-bc48-7a5439943f98,Hasan First University of Settat,Settat,Morocco,ca0ee351-e55f-4b3b-9489-83bacbac3cd0
+bcb4d651-1025-4e20-80f5-42c36d10c9ea,Guangdong Business and Technology University,Zhaoqing,China,16764840-69b1-4df4-8f7a-8b3082661573
+5595ec5e-a9f6-46e2-9638-6361e947ddb1,Universiti Kebangsaan Malaysia,Bangi,Malaysia,16764840-69b1-4df4-8f7a-8b3082661573
+109bbd12-afdd-4895-b315-8e99505a8d1e,Hadassash Academic College,Jerusalem,Israel,2e6fc73e-edfa-443b-9c8f-dafee5013357
+16014a5c-4c7c-4d37-ab9d-42e67d99195e,International University of Rabat,Sale,Morocco,ebccbfef-7e1e-4977-bdd5-726122885559
+04a61d07-90bd-4601-b93a-82115bf48124,Faculty of Business and Law,Portsmouth,United Kingdom,8b7e970b-a8cb-4951-93a9-2f7454fb10d0
+d6a019e0-085b-4b81-ae3e-12340c85fb1b,American University of Beirut,Beirut,Lebanon,169b5282-a371-455c-968f-3292af54eda1
+807dc36e-478b-4be2-b59a-c2737d8d3407,The American University in Cairo,New Cairo,Egypt,0fb7fdc5-cb0c-45fc-a400-baf28b3123a5
+2058d958-ca58-4ff9-8564-97f14dad6ab2,Davidson College,Davidson,United States,4189ed60-b323-4109-a0e9-52b274b9f69d
+74c9689e-411b-46dd-990b-8d67943201c9,Chungnam National University,Daejeon,South Korea,848eb858-bdb1-4141-a245-c519a7d317e3
+87531f06-0270-46ec-80ba-ef450353b8f8,Ponce Health Sciences University,Ponce,Puerto Rico,e447ef45-78bf-4b18-b1f2-7f294ee8ae12
+44bb8273-6d24-44aa-b1eb-3e949e4dc576,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,Srinagar,India,2c271917-c532-42ef-9ba5-c8423b2cf6d7
+baca699c-12ab-4f38-9c2c-f2ddd0f521a2,Universiti Brunei Darussalam,Bandar Seri Begawan,Brunei Darussalam,c97ee44d-ec5f-439b-b9c3-a1cb9b81a8b9
+3da82778-74d3-4936-a596-b23a8134fbb8,"AgriBio, Centre for AgriBioscience",Melbourne,Australia,e467864a-c29d-437c-9faf-57cddd736f14
+2ff2e537-b81d-4353-a4b5-32d0ccf165a4,OsloMet – StorbyUniversitetet,Oslo,Norway,29008469-2640-4e3e-8d42-b1b615d3eabd
+41e328e1-41f0-4e46-9bd8-aef0dd551d9d,Institute for Radiological Protection and Nuclear Safety,Fontenay-aux-Roses,France,a1ad5ff5-a87b-40d5-bbbc-5a058772231a
+76a7d412-420d-4b85-af12-86cd0f0a51db,Technische Universität Darmstadt,Darmstadt,Germany,871d7cea-b30f-47d3-b91b-45855102d621
+3330eb78-43d7-45db-be02-f223bc4f4349,Liverpool Hope University,Liverpool,United Kingdom,5e6d5fa0-7109-44bb-ae7c-be368ee28f26
+011783ca-1b81-436a-b4c0-bf87a64036e6,École Supérieure de Commerce et des Affaires (ESCA),Casablanca,Morocco,2c62c1a5-8953-4b5c-b218-98c6eacf0343
+2906cc76-4823-44c3-8f81-26780eb90d5a,University of KwaZulu-Natal,Durban,South Africa,641012b8-82cd-411b-9d3f-46082156d2f9
+23a6f6d0-7715-40e2-94f3-279f07e6083a,American University,"Richmond, VA",United States,42fe5d33-6fd6-4035-81fe-c13cd430c5f4
+91158795-6517-4e85-b4a9-56ecf489b158,ETH Zürich,Zurich,Switzerland,e6ef1f0b-7b53-4882-add3-885ad3fe68cc
+d2f64085-e2ac-4329-80e8-007f550ed5c4,CNRS Centre National de la Recherche Scientifique,Paris,France,010045e6-7a94-4b2e-83df-a818f4c63c22
+7aec4bb7-6cb6-45c2-b6a4-c4e43cbb89c4,University of Calabar,Calabar,Nigeria,941b7080-1e75-4f6e-bc3f-259665e4f029
+95e80e17-624e-4116-87ce-5ac04a2dc9d5,Université Hassan 1er,Settat,Morocco,47142bff-9ceb-4d9e-8fb4-df0d6ee2e24f
+cea73fcb-c7f4-47fd-b49d-3b552a80367b,Khaled Al-Hassan Center for Studies and Research,Morocco,Morocco,47142bff-9ceb-4d9e-8fb4-df0d6ee2e24f
+ab5656c4-783f-4d40-a39f-613982ca1dee,Hohai University,Nanjing,China,3d9eac40-c41e-460a-a417-07ba21e509f5
+e6d70c9b-0c38-4a21-8009-0d3f70a9819c,Harvard T.H. Chan School of Public Health,Boston,United States,6c40b6e3-243f-4a9b-b787-34ae0de42449
+14c16701-2801-4e58-9527-d37513389c61,Universitas Islam Indonesia,Yogyakarta,Indonesia,cb6e5ae5-7a53-4045-af79-d4ed33ab6d1a
+5b224e02-a3df-49b5-a7ec-ac3bd19f9d53,WU Vienna University of Economics and Business,Vienna,Austria,cb6e5ae5-7a53-4045-af79-d4ed33ab6d1a
+6fc204ea-fcfc-469e-a585-ee8220f3f0bc,M6 Polytechnic University,Rabat,Morocco,1e1ce1fa-f575-45f5-9043-18797bec29de
+3ec74318-3c69-4f62-8011-5749e608c5ad,Indian Institute of Management Rohtak,Rohtak,India,a4bd6092-7d63-44b0-96f0-5f07197edf5c
+bfaf4475-897e-4313-ac87-6dd157959836,Abu Dhabi University,Abu Dhabi,United Arab Emirates,3584efc5-27cf-4216-ae12-1fbd3ddfa19f
+9595e852-168c-4b7b-8b15-5824f37bc3da,University of Oxford,Oxford,United Kingdom,3584efc5-27cf-4216-ae12-1fbd3ddfa19f
+47520a6a-03e3-4011-88a5-1fe045f062b1,University of Liverpool,Liverpool,United Kingdom,3584efc5-27cf-4216-ae12-1fbd3ddfa19f
+1032c69a-5d28-4a99-8a9c-0f568d0ef26e,Hazara University Pakistan,Mansehra,Pakistan,f4d9251c-a294-48e1-9fcf-1decbbc11b63
+91b4a093-cbff-48a7-9528-c5ae78c2012f,Université Sultan Moulay Slimane,Beni Mellal,Morocco,6932668c-d8a8-4f20-bd64-932b7261ed05
+41cb53f1-04cf-4021-9902-b2fce716204b,University of New England Australia,Armidale,Australia,ca152093-9cb7-4b56-aed1-9f88099c8112
+2bccca43-3c8d-473e-a709-5438f417c65e,Faculty of Medicine,Ismailia,Egypt,cb1705be-11d5-49ec-9e24-bcedbe8145d0
+3154cd30-f2d1-440e-baef-12aba93e6046,Universitas Islam Negeri Maulana Malik Ibrahim Malang,Malang,Indonesia,5f8ff5b3-a40b-4fa5-858e-95ff2686c97f
+13cedf75-49a4-40a6-ac74-66a210788b0e,Université Libanaise,Beirut,Lebanon,c9ec14a9-604f-4488-9a6f-67c5d19f9716
+179e6745-2e8e-4400-93de-e27e7ab8e8f4,University of Regina,Regina,Canada,945bea9a-1d1d-481b-af98-98c638a2457f
+907a021b-af43-4ecd-bd5f-66fa8c9a26d3,Universiti Putra Malaysia,Serdang,Malaysia,83d546d2-57e3-4227-b737-a6cf208671d7
+e1f3f7f5-d7ef-481a-ac58-cb18d36dc3f7,Hôtel-Dieu de France Hospital,Beirut,Lebanon,0cd8abd4-7ffd-4019-8cf3-420ebeacce0f
+10e4eae3-3f82-4ff1-b758-a8492c4b6151,Université Saint-Joseph de Beyrouth,Beirut,Lebanon,0cd8abd4-7ffd-4019-8cf3-420ebeacce0f
+47714bf7-941f-4798-b57c-4d5ec07a6b85,University of Wrocław,Wroclaw,Poland,34cb4d1c-e4e3-4b49-9b6c-dd7313356332
+7d5110c8-d8d0-406c-976a-e916f548c01f,CIBIO - Centro de Investigação em Biodiversidade e Recursos Genéticos,Fornelo e Vairao,Portugal,33f15ee2-db58-4849-8dd2-a4f5b147bcee
+268fda7d-a957-4083-828b-ac6805846688,Universidade do Porto,Porto,Portugal,33f15ee2-db58-4849-8dd2-a4f5b147bcee
+fd3a75b2-5e28-4081-8294-4fa620e430f0,University of Carthage,Tunis,Tunisia,9a317cd0-dd97-40fd-abd4-bcc8f8d67edd
+4df64c55-1e4b-4312-a180-22db203ba10f,Université Paris 8 Vincennes-St Denis,Saint-Denis,France,5f259a40-938d-40f9-afad-73acc5c227e0
+5d7696a4-cc3d-4fdb-a65f-5df7be89ece0,Iqra University,Karachi,Pakistan,394fd6bc-abe6-4c97-942d-2932ff760561
+d8fe7b86-0f5a-4756-b4b8-d1a5ff306a7b,Covenant University,Ota,Nigeria,9e53eb5f-6d7e-49c1-aa43-627bdee9d651
+c4bb5d4d-d96f-44a5-82c6-96498123119e,Université Ibn Zohr,Agadir,Morocco,8e93692e-0ce5-47af-9643-8facf7ba5f24
+ae5797b4-1229-4519-a968-6792f6a222fc,Heinrich-Heine-Universität Düsseldorf,Dusseldorf,Germany,5809b9f8-ef7f-4902-9441-86a7a51eab20
+7160d951-a21c-48b4-b10e-b82f6b65e540,Khon Kaen University,Khon Kaen,Thailand,dd68f30a-21fc-44ed-9845-0c91e6460607
+40d9c961-34b5-4de5-8ed0-88eb9e261e84,Uniwersytet im. Adama Mickiewicza w Poznaniu,Poznan,Poland,2a48040b-fb60-45e2-9a58-97a17087ae4d
+6f3a7668-c29c-4ed0-8acb-3b4be4a04e6d,Independent Researcher,Budapest,Hungary,e02b98cf-0336-4635-a942-fd73a9cc3371
+92a32283-21a3-499d-a5d1-21f17bc5b075,Université de Mons,Mons,Belgium,8a7e8994-c899-454e-bdff-715fb1e1a789
+9091dfea-3980-4229-aeea-246a0bd5243b,Freie Universität Berlin,Berlin,Germany,5d90349a-a21e-42fb-8439-4f1e9bf755b7
+a04b7a9b-703c-4d7f-8beb-c5cf071bc420,O.P. Jindal Global University,Sonipat,India,47ec5e94-7ca2-4213-a250-9d7da2c7b10b
+17c69ed6-9c37-463e-98a0-320ca5f23077,Faculty of Social Sciences &amp; Health,Durham,United Kingdom,f2ffdcd0-4dc6-43ea-806f-4f8137725ac0
+1c5e7f4b-2a21-474d-9b7e-d56e4a988e5c,CARME - Centre of Applied Research in Management and Economics,Leiria,Portugal,61fb4dbf-84a6-490d-938a-bef6d6d0e654
+053a6789-9af8-4d97-a067-44397b8bcc68,VSB – Technical University of Ostrava,Ostrava,Czech Republic,eb328b2b-6be3-41ff-a544-403106155621
+cd32d96c-95db-4bfc-b49c-a8c6bac97483,South African Police Service,Pretoria,South Africa,5391d356-694e-4644-8c99-59031a1f4a8a
+e786ec6e-3c2e-4b7c-be02-e602113d4dbf,Queen Margeret University,,United Kingdom,d2f4cee5-878e-4fc5-947c-305e33ab10d6
+b030adf8-3a45-4ca0-a158-031fe3edd7b7,Ashoka University,Sonipat,India,ceb6cda2-520c-4b1e-829b-485fcca00011
+d0882928-b1e6-4916-8dfd-5284a75403aa,International Center for Research on Women,"Washington, D.C.",United States,0b2419f0-ae4c-440b-b601-f88f5c519faf
+c6311f13-8542-4aa6-8af4-3aa13d4887da,Chapman University,Orange,United States,6e041c7e-4f7e-407b-93b8-732f469dd694
+352663b9-a3fb-41e2-9b3c-e928b1639055,"Federal University, Oye-Ekiti",Oye-Ekiti,Nigeria,51d86063-f197-4779-95dd-8327e72a76fc
+56e23708-fec3-49ff-9f57-c28476d08a74,University of Edinburgh Business School,Edinburgh,United Kingdom,e9535852-a2dc-41f7-a973-d8e7ac13d293
+76249183-883f-42c8-af3a-63947e48759d,Shaheed Benazir Bhutto University,Nawabshah,Pakistan,ca043cf0-ef19-4c8e-968d-0c215f608d96
+9ed20965-a432-4582-9ec9-5e68cc1e1d22,Addis Ababa University,Addis Ababa,Ethiopia,c182f39a-964d-4a24-be79-186678233d14
+1d13cc15-5136-4629-b450-ce71bd98e11e,Dokuz Eylül Üniversitesi,Izmir,Turkey,60b1bf1c-2dc5-4716-9548-7b758a7fb9af
+5eaf8e02-df1d-4114-bb8f-51b51939a183,Universidad Adolfo Ibáñez,Santiago,Chile,c66753cd-5b5a-46ed-8f6a-bc1e59208ba3
+0d81773b-d457-4f6c-8c9a-bb528b7d2323,Nanjing Audit University,Nanjing,China,e70d78c6-a5ca-4698-9f09-50f42de76364
+9f209062-bda7-43bc-a41f-aa9f183395cc,Université Mohammed Premier Oujda,Oujda,Morocco,7b40aebb-c102-42e7-b19e-498f5e7598aa
+b5b642af-7593-4b50-a065-c4e3927ad84b,Technical University of Denmark,Lyngby,Denmark,dbe0fec0-dc22-4a56-bd27-c5e422cb4750
+d39ea57c-1459-463e-8097-52130556ff17,George Mason University,Fairfax,United States,07e63e2e-f579-402c-9701-db16e0e51598
+a992485a-3e62-402f-9e42-f204d0489a8e,United International University,Dhaka,Bangladesh,c3318e8e-e1fb-44dc-bdee-66a17e503ea2
+ec4b90c7-c0a9-47e2-88dd-e6511803e6fd,Indian Institute of Management Calcutta,Kolkata,India,f05a1200-aa40-44c7-919f-589eb6773e6e
+065ac93a-2318-4616-ab55-c1bef339719c,Universidad Politécnica de Madrid,Madrid,Spain,defef913-b70f-416d-917f-19220a702f97
+5dc264d6-d015-43f1-b819-ddf2d32c9a5d,German University in Cairo,New Cairo,Egypt,1c344c94-b856-4474-a1f8-9538557bfbe3
+32cc3889-3919-4bfb-9117-579e929a3381,Gottfried Wilhelm Leibniz Universität Hannover,Hannover,Germany,ac87d2e7-e51f-4d93-be07-6bffe124d22b
+44c97f12-c756-4a0f-b007-c8c791940d13,Institución Universitaria Pascual Bravo,Medellin,Colombia,0b1d34ba-0836-4320-9ed7-404ed92f4a44
+c20fb48f-fbbe-4861-a515-c1c07da690a2,Arabian Gulf University,Manama,Bahrain,f18c0957-ec0c-4794-8990-708ac7642e50
+3357b779-14a5-4d2c-9d0c-7bf24be9ce3f,Aerospace Information Research Institute,Beijing,China,4e962a93-d280-4f60-a0e9-3aec10dda477
+c6b2ff71-929e-4a50-b494-e61384e07329,Peking University,Beijing,China,4e962a93-d280-4f60-a0e9-3aec10dda477
+c124dd07-df48-4ffb-a0c8-a49ba0247b8c,International Research Center of Big Data for Sustainable Development Goals,Beijing,China,4e962a93-d280-4f60-a0e9-3aec10dda477
+16951f4e-ff8f-4b99-89a2-cca6556dbfde,Hebei Polytechnic Institute,Shijiazhuang,China,32e69c2e-ab7c-47d9-be33-bbbc85b2c1cd
+712b7ed4-2747-4e12-9cac-9b9082e438a3,University of Belgrade,Belgrade,Serbia,3c3012e1-8580-467b-ba15-8f6af08b4dc0
+188f4cee-cddb-41c8-bcb8-1e8db5c41915,Armando Alvares Penteado Foundation (FAAP),,Brazil,988212fe-9f97-4bff-b6d3-00ed1dbed2a3
+2fa582d2-7bc7-4bcc-bcdc-92c7395ff1e7,Wuhan University,Wuhan,China,15651902-5c74-4d1f-980a-66633d00a0cf
+62d4230d-4705-4fcc-b58d-04d90364fe66,Lebanese International University,Beirut,Lebanon,22bfab6f-b90e-4a88-9df5-8f54df0bac82
+9b11683d-1855-49ec-8057-1ddca03555c5,Gulf Medical University,Ajman,United Arab Emirates,22bfab6f-b90e-4a88-9df5-8f54df0bac82
+1f5e4617-fc15-4e27-a906-3e2b59dc2322,School of Ecosystem and Forest Science,Melbourne,Australia,d79db124-b44d-4aeb-8065-e74dbb450732
+dcc573e9-0954-4973-acfa-b0fb6fa94003,Ecole Nationale d'Agriculture,Meknes,Morocco,54a44912-f50e-4913-be2b-28fcba4fb1ca
+c30d693a-e4b4-49bc-8470-b289558d1b11,Hassan II Institute of Agronomic and Veterinary Medicine,Rabat,Morocco,54a44912-f50e-4913-be2b-28fcba4fb1ca
+7648e8ed-1ea8-4363-b4f9-b10c06322018,Ariel University,Ariel,Israel,547b3e36-68f3-4236-bac1-4ebe5fe6d07d
+85ef3acd-75c6-479a-bc14-ac83a9ceaacf,Université Cadi Ayyad,Marakech,Morocco,ef751a65-b954-473c-a584-326bba3984eb
+889632e7-bfc8-41e9-8c72-64dc12b25b8f,Nanjing University,Nanjing,China,a0f49e38-3b11-42e5-9d22-4fed48fd8b53
+35087a47-3987-4fb0-9a32-2684dab21b34,Qatar Central Bank,Doha,Qatar,2a520d4a-4290-4102-92f6-b34114e45d67
+d9aa19d6-8f3d-4a1a-ae38-6b585d519515,Universidade de São Paulo,Sao Paulo,Brazil,facdc331-a436-4848-b4bb-24468ea197db
+69fd24ee-b822-4af6-998b-edb8172e048f,Universidade Federal do ABC,Santo Andre,Brazil,facdc331-a436-4848-b4bb-24468ea197db
+24a0fa01-6ea0-44c0-a7a2-325560884847,Université de Kinshasa,Kinshasa,Democratic Republic Congo,e5b5f809-79d5-4e12-a583-86e8f93c08bd
+b1856da9-2c28-4d2d-8f09-3d541b14dc7c,Organisation Mondiale de la Santé,Geneva,Switzerland,e5b5f809-79d5-4e12-a583-86e8f93c08bd
+94c1b346-230a-4dc4-81a8-47e2a403084d,"Instituto de Ecología, UNAM",Mexico,Mexico,2f31cf70-7333-4305-9c05-c5fac1089a06
+1764b777-2697-4c41-8998-a492374e1a0a,Santa Clara University,Santa Clara,United States,eb356520-00e0-4090-b361-b7351c68880c
+5bddee6f-cb3d-462e-b60b-ef2eef46993f,Università Bocconi,Milan,Italy,7469f888-53e8-4fc9-a47e-18fc29e9fb96
+393ef5c6-dba0-48fc-9a77-3f07ff9eb21f,Imo State University,Owerri,Nigeria,d80bf217-3306-4b24-bf4d-a9db72c8f5de
+e5b0ddbb-124f-4160-bdcf-45e663f5d9db,Université Chouaib Doukkali,El Jadida,Morocco,0bfb5e22-23bd-446e-95e8-360aefeb3ba7
+a5962d55-c81b-48a8-81a6-599fb9994b3b,Montclair State University,Montclair,United States,74593827-d3db-46ed-8d6d-01f101501725
+c7d12ff0-3a7e-431a-a6cd-df7ef58939c1,Research and Production Enterprise “ANTIGEN” Co Ltd,Almaty,Kazakhstan,5c8498de-0a41-4a06-95e7-325c9141bc96
+4011a955-0de3-45c3-9cab-4bad57bbeb81,Kazakh Research Institute of Livestock and Fodder Production,Almaty,Kazakhstan,5c8498de-0a41-4a06-95e7-325c9141bc96
+94480e6e-8d7b-4aec-96f8-738f139a894c,Sheffield Business School,Sheffield,United Kingdom,a76d48ea-bee9-4621-8196-95201744ecff
+57e9c9c6-4433-4f29-a16e-bebe257268b4,"Birkbeck, University of London",London,United Kingdom,cd1b513c-9fed-4ecb-b858-4ba5c89ced67
+8877a8a6-0a15-426b-98a7-a3f30d314cef,Universitetet i Oslo,Oslo,Norway,d613b9b3-995e-4268-8e0f-e90cec4f2953
+e8f0489c-2ed8-428e-8c75-cff5747eb285,Consejo Superior de Investigaciones Científicas,Madrid,Spain,658fbed6-1d6e-4698-aeca-2f695a68f211
+92fa89f2-0307-4602-952e-5f4c69c3f6cd,Stockholms universitet,Stockholm,Sweden,0d2066ba-f921-4575-bb61-be2e52ac44e4
+a620c9a6-91ff-44f5-9514-50019b90af35,Joint Research Center of Chinese Government and Policy,Tianjin,China,da660c1e-95a3-4ecf-8dd8-232dd3bfcee8
+9cb53f61-72eb-4199-b1c5-69183bd68921,Nankai University,Tianjin,China,da660c1e-95a3-4ecf-8dd8-232dd3bfcee8
+2dcd3b2d-8b76-4cc1-9fac-69dbf72a1b87,The University of Auckland,Auckland,New Zealand,1254aa39-830a-46b4-9abd-e51fbb61d9d8
+5cb9a2bd-1571-4979-92a7-d9ba116df057,University of Jeddah,Jeddah,Saudi Arabia,f8d08edc-8592-4b01-b16a-1d4ce5388cea
+53cd52e7-f640-49ea-bf9c-f8f692afbe3a,University of Gondar,Gondar,Ethiopia,e4b4d954-eedc-445d-a01a-364c3a66463d
+cd5573c8-3498-48fa-9a19-cf01492fd137,Mirpur University of Science and Technology,"Mirpur, Azad Kashmir",Pakistan,573efe7e-6fcb-46da-a934-95292019e43a
+51e71a04-3e7d-4723-906e-90d0d1978ba8,"University of Utah, College of Social and Behavioral Science",Salt Lake City,United States,16a93450-a979-43bb-9e51-9f3c45d63227
+e717d899-dbe0-4a5a-b7f1-c7b7ee292e31,Ludwig-Maximilians-Universität München,Munich,Germany,12557d7c-32bf-4a3f-936c-58bb0acb478f
+557c7d22-b89f-4627-b4ad-12333312fd48,Max Planck Institute for Comparative and International Private Law,Hamburg,Germany,02086a66-e1aa-4086-be11-08f4fd636dee
+6108c498-b03d-4bb0-8933-cbe8e4c8a828,"University at Buffalo, The State University of New York",Buffalo,United States,021d0c37-b365-4c3b-ae05-335a62d45345
+a4f12554-2757-4fa7-ac5c-a08948937f7f,University of Ferrara,Ferrara,Italy,1a299765-d761-488d-be13-81729475e8ac
+36ddf7a0-8c43-4c29-8b40-553f09605f19,Ospedali Privati Forlì “Villa Igea”,Forli,Italy,1a299765-d761-488d-be13-81729475e8ac
+b0410441-5884-4b33-ba81-23c4228f9bbb,Istituto Internazionale per la Ricerca e Formazione in Oftalmologia (IRFO),Forli,Italy,1a299765-d761-488d-be13-81729475e8ac
+cf9dc4b2-4c93-4f2e-bf29-a726e66daaad,College of Arts &amp; Sciences,Boston,United States,39e61d45-903d-499a-aeb3-73eec2b17615
+4c85557f-4738-4abf-b87b-9728b4ea1064,Faculty of Humanities and Social Sciences,Newcastle,United Kingdom,3703aad6-9129-4c54-8b2a-e762380f061a
+dd665eaa-1da6-402d-aa79-a44df8d73f22,University of Applied Science in Ferizaj,"Ferizaj, Kosovo",,3222e557-78a2-4377-a895-63ee84f728f0
+bbd33174-df20-415a-b570-9ac8fe8376f3,University of Macau,Taipa,Macao,2f946b75-f286-4ec9-9a87-5a011ec99fe5
+bbc11d89-f6c2-4e25-b672-35cea44eed2f,Tel Aviv University,Tel Aviv-Yafo,Israel,c02aaea9-bc7d-4965-9f3e-5f8f800c65b4
+72a78685-1074-4ce6-9cfa-1d9a23c8d931,University of Nottingham,Nottingham,United Kingdom,f62afc27-929b-477e-b5e8-114fc9611d46
+635118a3-42bd-41b1-836e-f4be04ed1efe,University of Bristol,Bristol,United Kingdom,2d1a470b-cc7c-43e6-936b-df0bc4a5686a
+f9a029d0-cc84-445a-98f8-46c2da60f4e5,Dire Dawa University,Dire-Dawa,Ethiopia,c1b0bfc3-468f-466c-9959-a9b9c98b647e
+320e31c6-0d49-4c76-bcbe-9a04a384a6be,"The Chinese University of Hong Kong, Shenzhen",Shenzhen,China,d719eb3e-d113-48fc-99d6-f21f48a6671b
+8e724a7d-21d2-4c9a-9b81-b8482839621a,Midlands State University Zimbabwe,Gweru,Zimbabwe,feb89aca-48cf-4142-8723-761d045557ae
+84fdef8d-0008-41f6-ad17-4a7db5a8cde4,Nelson Mandela University,Gqeberha,South Africa,feb89aca-48cf-4142-8723-761d045557ae
+bfa5d682-9ec5-4b22-8203-8a5555b56042,Northern Border University,Arar,Saudi Arabia,0347147c-038b-4772-8509-9c523c337d1a
+38ec70b7-4f86-4842-8e0a-c816635c6dba,"University of Nevada, Las Vegas",Las Vegas,United States,f27560c9-4c99-4ee7-ab2c-5c4b095a6ad9
+b4dbb54d-4545-4723-b317-c1652dd9e462,Essex Business School,Colchester,United Kingdom,1206ed82-12bb-45a5-9ef5-aaab8a83361a
+d3c541bf-78ba-4e2c-8ef1-40b8362ac0cf,Bar-Ilan University,Ramat Gan,Israel,010f1258-3044-469b-a39d-e913c5b3cce4
+d5e07d82-86fb-4698-9eea-8d869110a620,Samford University,Birmingham,United States,91efabb7-a035-4ecd-8685-04cfbc7479f6
+1b883b5d-2882-4c75-b58d-c7624cabd575,"California State University, Monterey Bay",Marina,United States,c273fb61-19f0-4e15-bb04-75bb1c990fe6
+34c12ccb-89a9-4c2f-8d7d-661a9a30817b,Al Akhawayn University,Ifrane,Morocco,5895fa38-3ec7-4d30-ba22-2875c20d50c8
+3606c164-d815-42bd-97fb-4224122168a6,Yunnan University of Finance and Economics,Kunming,China,e6a7713b-defd-4849-8216-1496e4d3c8ce
+c7f60581-33ba-4c1c-b473-c2afa4635e02,Nasarawa State University,Keffi,Nigeria,04c99c17-a813-455d-8217-5b1c213de912
+913fcfe2-229e-4863-b817-f0393820a14d,Memorial University of Newfoundland,St John's,Canada,f0666e61-31b6-4d60-91c8-fa6670540155
+8498049d-d37b-466d-b270-f23a505c29bc,Para La Tierra Centro IDEAL,Pilar,Paraguay,c0bbc28a-3c0c-4db9-b5b2-1148dfef06b4
+9c9e18c4-cc1f-44ab-99e9-1a23a819f1a9,Queen's University Belfast,Belfast,United Kingdom,c0bbc28a-3c0c-4db9-b5b2-1148dfef06b4
+87f6c384-ad6a-46ff-a5a5-8bfe318a4a30,Copenhagen Business School,Frederiksberg,Denmark,b69a2372-8bc7-4287-9148-590cd0c7a8d2
+f0177e4b-77ec-4a56-90ac-81851f4f290e,An-Najah National University,Nablus,Palestine,902a9b6c-fe26-447a-a545-5750391edc93
+afab3426-27ac-447a-90fb-95089c7622d8,Obafemi Awolowo University,Ife,Nigeria,aeea1b6c-30cb-437b-9b4a-83c86de6d588
+2a4af4ee-6edb-463a-bd54-aa6e229c6f1e,Georgetown University,"Washington, D.C.",United States,7d622f9b-68d9-4265-86e6-e956c3a0b76c
+bec8b821-4e83-44ee-b4b3-5c30a147f058,Centre de Recherche en Economie Appliquée pour le Développement,Bouzareah,Algeria,ea27021d-5284-4d23-948c-89e070dc3aca
+b9922083-89bd-4d78-b26a-7948e91ca9e6,Université de Caen Normandie,Caen,France,ea27021d-5284-4d23-948c-89e070dc3aca
+4ed13c24-6a97-42a2-b8aa-d1144fba38c6,University of Toronto,Toronto,Canada,5d49926b-a6a9-4cef-9707-da837f170c75
+ed200745-372f-49b8-8bde-1ef752b421db,Pennsylvania State University,University Park,United States,c95c9acc-ae2a-48cb-aa75-fd80953ac4c9
+856ea4b5-53e8-4ed2-bab9-64474de819cf,International Institute of Social History (IISH) - KNAW,Amsterdam,Netherlands,c1383c91-94d4-4b7d-a81b-bbf703c08178
+14b44084-3d69-4df3-bcc8-50e4ec2249a8,Varna University of Management,Varna,Bulgaria,daa477b9-af28-47ca-b6f7-099f0a71d4ab
+f65ebb4d-7f8a-4d43-9b74-8d0f13750a6f,Tartu Ülikool,Tartu,Estonia,daa477b9-af28-47ca-b6f7-099f0a71d4ab
+e4f50db4-ea57-4c3f-a0f5-2000821114e2,HSE University,Moscow,Russian Federation,daa477b9-af28-47ca-b6f7-099f0a71d4ab
+05c2f50c-835d-42b6-96bd-b46c51ab64b0,IRD Institut de Recherche pour le Developpement,Marseille,France,98fdfc74-d04d-4741-98fb-dc0e82221ea4
+b5b37b8d-8092-4766-a72c-b24332adeefd,University of Nairobi,Nairobi,Kenya,d4c6fa1b-cb1e-4cae-bb62-873eae4e255b
+2217b553-7582-4fe6-a11d-62ab70c7ae19,Washington State University,Allen,United States,d4c6fa1b-cb1e-4cae-bb62-873eae4e255b
+c48f9163-7720-41c7-8e36-17823cd0f942,Ministry of Health Kenya,Kiambu County,Kenya,d4c6fa1b-cb1e-4cae-bb62-873eae4e255b
+6b88408e-90bf-406a-9c9b-d50d627b0870,L-Università ta' Malta,Msida,Malta,1f503ddc-8444-49e3-915e-5d34e12ac78f
+431ab193-93f2-4e8a-995e-22caf3952752,Universiteit van Amsterdam,Amsterdam,Netherlands,1f503ddc-8444-49e3-915e-5d34e12ac78f
+4cf87749-40bd-4f9b-8b66-f9cf49cce485,University of Life Sciences in Lublin,Lublin,Poland,4f7233b5-31ce-44f8-87a7-61ed941e32ab
+be9771dc-efe0-4e5e-b45c-e401e91b5869,"Linnaeus University, Kalmar",Kalmar,Sweden,3d632c6f-77d5-4615-b47a-538104160dc9
+c5408b88-88ce-4193-a43a-fcad32a929d4,Universität Basel,Basel,Switzerland,92ace86e-afcf-4d6b-a291-8c28747e9aad
+7ead06e6-1340-4cd7-821b-55b112b3117b,Academy of China Council for the Promotion of International Trade,Beijing,China,6e80483e-ae10-469e-b1f8-7f14879f3756
+2cca91f9-0e83-47cf-82da-7d759bd7ae79,Universität zu Köln,Koln,Germany,1a69bd22-0658-4caf-b11a-0f4f7c66dcf3
+b1c989cf-c39a-499c-985e-2f071d1b9119,Université de Strasbourg,Strasbourg,France,b98bc608-c690-4ccf-958e-91a8a75100c2
+0cf85cbd-d4b1-4f66-ab86-fbdce2516f9d,Holy Spirit University of Kaslik (USEK),Jounieh,Lebanon,e11f59a2-8954-494c-bef1-1780ad27265c
+d6a1b38a-1f57-4827-99b3-5f59f2e4c8c6,Northwestern University,Evanston,United States,f30ee929-6f31-4957-9675-b940b600c88d
+6c624d8c-e4a8-4491-8c65-bec6cb4849f7,Geological Survey of India,Kolkata,India,cd74f8d1-1244-414d-af69-31ed13b82976
+e1f07c14-8b08-4a46-b8d7-8dc203b38ab7,Vrije Universiteit Amsterdam,Amsterdam,Netherlands,ce4b738b-254a-4489-ac9d-b94fec7a243a
+bda70f16-2684-4c61-a2e0-cccc0a6245bb,Centre Hospitalier Universitaire Ibn Rochd,Casablanca,Morocco,bfd7a972-0233-45e9-ad5d-1224c747b86c
+71993f80-3982-4e47-b575-10ae8904e871,Aalborg University,Aalborg,Denmark,a76732e2-d297-4d4b-a4f2-c26c93a1bdde
+ba0d5a39-530e-4f35-bacb-e54e2379677f,National University of Water and Environmental Engineering,Rivne,Ukraine,77b20248-5874-473a-8dd2-74af27deabb0
+700ab22e-3c4d-4a92-b32d-76095a0775bc,Politechnika Rzeszowska im. Ignacego Łukasiewicza,Rzeszow,Poland,77b20248-5874-473a-8dd2-74af27deabb0
+39956f0e-a718-4c7c-9773-5a6a594193c2,Hubei Polytechnic University,Huangshi,China,95b0c886-2338-4751-86a0-8356b3433b3b
+b336b5b0-476c-4f08-9ae1-b8e9613f516d,William &amp; Mary,Williamsburg,United States,6f00cccb-b719-498e-9569-9312c88a3dcd
+c8b3bf91-c557-411f-a339-a8ea816f21a4,University of Glasgow,Glasgow,United Kingdom,6de3b64a-8d98-4deb-92b2-acc74a6a98c3
+a3cd6199-7f70-479e-82f0-961993d3551c,City University of Hong Kong,Hong Kong,Hong Kong,6ebe5137-62d6-4f9e-873b-e299325dd017
+f4b779a8-48ff-4221-9199-8521ec05faa8,University of York,York,United Kingdom,4fae6bd3-d2b7-490b-b359-250a7b5570b4
+96067e25-e7f0-4781-be41-da180bc95559,Staatliches Museum für Naturkunde Stuttgart,Stuttgart,Germany,ad199b94-94f1-4776-8e83-b5cbc7ea1dd1
+8342c849-3387-49fb-80eb-a1a8acdf37e7,Mailman School of Public Health,New York,United States,a7a2a90d-0f3b-4618-980e-86432ee2c5de
+2607d972-e671-41f9-82cc-fb192b2efe3c,Folkehelseinstituttet,Oslo,Norway,a7a2a90d-0f3b-4618-980e-86432ee2c5de
+df1eb531-eced-457c-8a28-983235e3a143,Reichman University,Herzliya,Israel,cc91fddd-cfb3-4a5e-894f-a6fbb0bfe40b
+abbc0c16-21b9-421f-9b11-000298d88b22,Vrije Universiteit Brussel,Brussels,Belgium,488449fc-fc47-47a4-a986-814d4758e29b
+32372ad8-2a04-4dc2-a14a-80a385702af4,ENCG Settat,Hassan,Morocco,57ce5584-979e-4087-9fde-22a084dd3391
+e1a561f9-6b89-4467-a37d-93b9f9adde50,Universitas Lampung,Bandar Lampung,Indonesia,277eb9ba-0a2d-408e-9d5d-870dda455fe8
+e0497541-ec2c-4c5f-9752-b8a3298d4d41,Centre for Criminology &amp; Sociolegal Studies,Toronto,Canada,5798395f-7b55-4de9-a16d-510c482fc331
+8d8b028a-0f89-4891-860f-749fed0cef3a,CRMEF,Meknes,Morocco,7d486fb9-c85d-4f22-bb37-ed3dbd86f55e
+6988d219-f637-4ef1-afe7-9987e35297d3,Jiangsu University,Zhenjiang,China,831971c5-c700-45a5-85f1-d941dd777ea0
+39168301-138e-4406-9b3a-b28507f21992,Université de Versailles Saint-Quentin-en-Yvelines,Versailles,France,740e28cf-827e-4367-aa18-151e8a749f96
+3583e7af-09f9-4b3e-a875-ce43be2de90f,Hopital Cochin AP-HP,Paris,France,740e28cf-827e-4367-aa18-151e8a749f96
+2815881b-f2ab-4a38-b8d5-af78f2a593c7,University Sorbonne Paris Nord,Villetaneuse,France,740e28cf-827e-4367-aa18-151e8a749f96
+26c66d94-edf7-4ba4-affe-9d103924d169,University of Paris,Boulogne-Billancourt,France,740e28cf-827e-4367-aa18-151e8a749f96
+fd833b87-1344-49ea-83ea-6e99bf7025b3,Università degli Studi di Milano,Milan,Italy,12be4bc8-78ba-4bcb-af25-ae54497fe45d
+5c3fe29f-7f01-450f-b22b-b9e5eaf8824d,Universidad Nacional Autónoma de México,Mexico,Mexico,f63b8f29-7258-4857-ba74-78fb257d7355
+36e395fd-f277-4e76-9dbf-d1bed8489f72,Clarivate Analytics,Philadelphia,United States,686e517d-5f61-4168-8859-83fca90980a2
+5cfaf4d4-f97d-4c1b-8a7f-71167808010a,Universiteit Leiden,Leiden,Netherlands,686e517d-5f61-4168-8859-83fca90980a2
+143d85ec-7960-4908-a43d-37f2e0ba1f90,University Hospital Southampton NHS Foundation Trust,Southampton,United Kingdom,08c698ef-2d0e-449f-b4df-705a90aecd58
+ee155dfc-e970-4ad1-8f11-d061452fc32c,Academy of Scientific and Innovative Research (AcSIR),Ghaziabad,India,76ca5b1e-4a0b-4762-a4c5-1034205b4497
+fefe8c2d-bef4-432f-8158-fe403b1cdb16,Central Food Technological Research Institute India,Mysore,India,76ca5b1e-4a0b-4762-a4c5-1034205b4497
+46c16088-a21b-4515-b130-8f19651b70f0,University of Calcutta,Kolkata,India,a4738fd8-87b3-4b31-9a21-2bf1eb5c5ba1
+e170d676-fca3-45b7-beb2-f874d96be51b,"Indian Institute of Integrative Medicine, Srinagar",Srinagar,India,048860da-7f4a-4d76-bfe0-4afc5b6efd50
+0d370836-e4d9-4e5a-845a-e63de644c80f,University of Colorado Denver,Denver,United States,b89a3191-cacf-45ec-bb7e-1156f36dd27d
+e36a2ada-e5fa-4530-bf39-8065b0402315,University of Warwick,Coventry,United Kingdom,a9248cd5-4520-4363-954a-f7dc8780fe60
+ab4742da-7e08-4051-b7f6-29908486ab38,Centre Régional des Métiers de l’Education et de la Formation (CRMEF),Rabat,Morocco,edcd85ce-b4a5-40d3-8884-62ca64bf0a37
+f59f2ce8-1a22-414b-80a9-abaf191fab1e,Università di Trento,Trento,Italy,56b31260-697e-4ece-85c8-ba7b30f9562f
+68b7e6e3-dc24-4cbc-8ef6-051cc3890b88,Rollins School of Public Health,Atlanta,United States,98f00782-1ea5-48cd-8844-2853d91ef788
+0008f380-2e97-4302-9aa7-b1641202e480,Université de Montpellier,Montpellier,France,f01d63b4-d6e1-4184-b048-f969460accfc
+f9d4d6a1-e5ae-40ef-bfaf-32893ce94353,Faculté des Sciences Rabat,Rabat,Morocco,f01d63b4-d6e1-4184-b048-f969460accfc
+7bf2cc9f-b24b-496d-a395-7949ac7d2a34,Dong-A University,Busan,South Korea,46b315c2-5511-432d-a319-63efc3500ef3
+b81cb94d-2aec-4308-8d8c-3c9e134ce428,The University of Texas at Austin,Austin,United States,46b315c2-5511-432d-a319-63efc3500ef3
+482b2a58-5d1c-4600-a7ab-845bd0bf2cec,University of Peshawar,Peshawar,Pakistan,9f48996d-6f98-47fb-8546-34089c87c368
+b8218bc6-a438-4ec1-8f61-6257c7b22ea0,Academia Militar,Lisbon,Portugal,b481842a-ab86-4e21-970d-2e3cddd1e514
+38aa3991-1a29-4881-9e0b-7c92a7c8503a,Lusófona University,Lisbon,Portugal,b481842a-ab86-4e21-970d-2e3cddd1e514
+c6179cc7-5f84-495a-ab65-edb508e75947,Faculté des Sciences et Techniques de Tanger,Tangier,Morocco,853a69c3-b47a-456f-9c11-861a63180c45
+a5148feb-ac59-461f-908e-c1013928939d,Wellcome Trust Research Laboratories Nairobi,Nairobi,Kenya,68073ba8-d609-4255-8482-e7d01eaa71a2
+b62b17d4-6983-4e86-a2cd-c2ebf2845427,Alma Mater Studiorum Università di Bologna,Bologna,Italy,a9390490-9545-4b2b-b02a-d8d27dd98bd0
+12f7835a-8b41-4440-8d91-f7bbca8f070c,Sun Yat-Sen University,Guangzhou,China,ed060cb2-95c5-4942-beec-179715845fbb
+63c449c6-2d65-49c9-a43b-16f954674d37,Texas Christian University,Fort Worth,United States,ed060cb2-95c5-4942-beec-179715845fbb
+481db485-eafd-4b23-815b-a926e9fdb688,Jilin University,Changchun,China,ed060cb2-95c5-4942-beec-179715845fbb
+4bfba9a9-c6ed-4511-97e3-90b9461205f7,Laboratoire Population Environnement Développement,Marseille,France,9a45aa87-0bc1-4620-8a26-7bf48a191d28
+e10466e8-4e73-459b-af3a-d7df975bc1da,The World Bank Group,"Washington, D.C.",United States,7bfec5b6-bb91-4794-9a85-20a44fe5c92f
+167ba9f5-39e5-4037-96cb-2e2947321ca5,Universidad Iberoamericana,Mexico,Mexico,ca2a9446-de91-4606-910b-a08f1fd65bb1
+dc7ec6e9-8270-40a8-9f5b-29d6a98c8649,University of Sussex Business School,Brighton,United Kingdom,e26986a5-645c-48f0-816c-a17d60310eab
+6e6fd69f-a23c-4b0e-b528-81fc35bdea50,Aarhus Universitet,Aarhus,Denmark,e26986a5-645c-48f0-816c-a17d60310eab
+78c75b02-ade8-487d-8f29-44c7ab8fda85,Beijing Normal University,Beijing,China,ebbd85dc-713f-459b-ba22-4b51c9897510
+9aee3eeb-22b3-4de7-a0f8-4e319855729e,"University of the Witwatersrand, Johannesburg",Johannesburg,South Africa,14f2ec6d-0e56-417b-9998-82bcbb5e2483
+c9e68df9-24ac-4a26-a8f6-690c112e0d51,Kuwait National Security Bureau,,Kuwait,5782be34-98e7-4e6b-91f5-0d0af28765a1
+4322d316-7527-4a26-80e6-1a91216ad93d,Migration Policy Institute,Washington,United States,8194889f-29b1-4f61-8eb0-e6f6749a321c
+d0c02d50-c529-499d-9141-9e0b19aa2c78,European Bank for Reconstruction and Development,London,United Kingdom,6d443ddc-015d-4be6-9e1b-6b48a2c1a939
+45894545-4631-42e2-99b1-8c5fa1ecdd20,Sumy State University,Sumy,Ukraine,6d443ddc-015d-4be6-9e1b-6b48a2c1a939
+4baec9de-3fce-4709-be4a-f259f195a92a,Economics and Management,,Ukraine,6d443ddc-015d-4be6-9e1b-6b48a2c1a939
+11a4ef47-c07c-42b9-b01c-64f179bd40ed,NGO “Council of Young Scientists”,,Ukraine,6d443ddc-015d-4be6-9e1b-6b48a2c1a939
+409a3733-40b0-4952-a9fa-8f8a489f71fd,Universidade Federal da Bahia,Salvador,Brazil,ab015df0-7f01-4be8-8427-f773782d3675
+799edc41-2d9a-476e-96e7-ff9dc7c83a07,The University of Western Australia,Perth,Australia,286f0191-68f2-4251-99b6-4474d0eb2a2f
+6c57638f-bc24-4b1a-8a08-2e7080afc28c,HLM Group of Institution,Ghaziabad,India,020d46c4-f396-4f37-be5e-b6b0ca95872d
+8310a84e-1353-48b8-be48-43cc649c2fd6,New Jersey City University,Jersey City,United States,af3a3a06-0cbb-4df0-a79d-51935784f8ca
+a6f4c2ff-f47b-4b0f-95e2-56147cc24f71,University of Minnesota Twin Cities,Minneapolis,United States,1aa1b29e-4db6-4209-884b-c150b230c723
+754a2cad-ffa0-4cf0-b1aa-f7873a917a9b,Institut de Recherche sur le Maghreb Contemporain,Tunis,Tunisia,9a355bad-2729-440b-a267-8442c6809670
+2cdb7bb0-ea7c-41a3-9548-ec4a02bd6a7d,College of Business and Economics,Al Ain,United Arab Emirates,ec7e35db-c6cc-4722-95a1-b27859f7a576
+90283ef2-2934-4cee-9565-7f865bb739d1,Keck School of Medicine of USC,Los Angeles,United States,eae0e5cb-b676-4c1a-96d8-b940269a93c9
+2ede6d61-953f-442b-a5c1-2e24e25d5f58,Høgskolen i Molde,Molde,Norway,6d8157f9-a04d-4720-ab34-f23a11cb434e
+b38ab672-7302-4950-84b4-04eae76a873c,National Institute of Technology Tiruchirappalli,Tiruchirappalli,India,af4953ac-7bb8-43a7-bde6-730d59b5b43b
+98118275-aa49-4f88-b026-c597043f505e,Seoul National University School of Law,Seoul,South Korea,78da7398-3600-4f87-ba8e-6e3f304ffa9b
+cc174f07-e36e-453e-be47-86a6bdc4101c,Lancaster University Management School,Lancaster,United Kingdom,41801977-da6c-4eec-97af-8d497d124942
+7008e7a9-189d-4ec9-ac33-fa7dc25eed57,Washington and Lee University,Lexington,United States,e46505f7-6a1d-4632-ad40-10470c5e4b36
+53643ac3-4f9b-4874-bd23-f07822432d24,Forschungsinstitut zur Zukunft der Arbeit,Bonn,Germany,e46505f7-6a1d-4632-ad40-10470c5e4b36
+9ae4c479-3207-4d8b-9176-0c26e1449993,Centre mauritanien de développement de l’élevage camelin,Nouakchott,Mauritania,aab6b381-8e95-4fd0-986c-3774b6e6ee13
+6c779555-cc39-44a8-a4c8-eaed48d7353c,University of Birmingham,Birmingham,United Kingdom,4b847c3e-791d-4522-89e4-1c8cb4bbf81e
+e9da29be-998e-46aa-8cfa-8abc05fe090e,Agricultural University of Athens,Athens,Greece,00893e69-dc3a-4b43-9773-226fd943cfb2
+02297711-d185-493e-b3a0-25dd938b9338,İşletme ve Ekonomi Fakültesi,Famagusta,Cyprus,64b63dd6-4765-4070-8387-40a91fcc807d
+d27bba25-5f2e-4b4a-a983-90d5c73d5cde,Ocean University of China,Qingdao,China,83579759-8baa-4a4e-9702-0f3d70f56a38
+b0766f15-e3cc-4733-b3f4-72b5ee426cc7,Indiana University-Purdue University Indianapolis,Indianapolis,United States,0926209e-e0a1-4a44-b34f-3c70ab922633
+4f94a9e6-e897-44a4-bb15-de66c3bf9132,QUT Business School,Brisbane,Australia,aa270e09-f65a-4426-bc5a-c1520a89e2ea
+16d4e988-7bd4-4878-a68a-891dc9f1dada,University of Manitoba,Winnipeg,Canada,b8cb6ea3-aa60-4f96-906d-4fcbba1ceea0
+3505a78a-1716-45a3-9019-38d8d5d584dc,Clark University,Worcester,United States,563d6c22-6157-46d6-904b-61845737dc36
+64a91f4d-f765-4399-bdee-f9001bfe2bbf,Istituto Agronomico Mediterraneo di Bari,Valenzano,Italy,789844b2-6a94-4474-961f-3230b027f204
+ba813982-c31a-4c95-9c9a-8c2e362fc11b,The University of Texas at El Paso,El Paso,United States,f9f4fffb-3f37-456c-9dae-e4283a56c32e
+498a583c-6594-4332-a419-aa759083b919,University of Ottawa,Ottawa,Canada,3990aa00-088a-4ab8-bdf1-cb92b8aa7e78
+bedb4f42-4192-41e5-a2a4-8fbd7f0e8dfc,Universidad de Huelva,Huelva,Spain,7effcb51-bfcf-4d00-a840-b02d396c790d
+bea14d7d-381e-42b2-9efa-dd398ed2346f,University of Pennsylvania,Philadelphia,United States,9cf77f76-4978-4d00-ae11-dffc0bf6ab61
+9e0ec5f5-e1e4-45f3-ba31-f74a8634ddbc,Penn Museum,,United States,9cf77f76-4978-4d00-ae11-dffc0bf6ab61
+1cbd3212-2703-4ac7-8aa8-c522aadb4c0f,The University of Sydney,Sydney,Australia,f8488874-e00d-49fd-86cf-8cd14fa0a4dd
+7e456514-80f3-424a-83fe-f5a487378187,"School of Sociology, Politics and International Studies",Bristol,United Kingdom,ca08db0b-8090-43bf-8592-3680660465d4
+4525a2bd-9d0e-495c-9460-3a9e26ca41ea,UCL Institute of Education,London,United Kingdom,e7b4e0b1-76d0-42bf-91a9-3cf794fb7ae5
+3ac0e9fe-b2ab-41b9-9317-de1c68ee9dc1,Universidad de Granada,Granada,Spain,1d68d5f6-53a1-40f4-b2f1-d33dd873446d
+85b785ae-b328-4e30-a7cd-721e299b4562,Radboud Universiteit,Nijmegen,Netherlands,0630866c-9820-44f4-9f15-17732cc60651
+4fc1cfbc-f460-41c6-b5d1-3c9c13c0ce6c,Tomsk State University,Tomsk,Russian Federation,e7f4417e-b705-422b-9099-20ba5091d2d7
+5497c6d9-7f88-4273-99ae-32496f11b090,Shenyang Normal University,Shenyang,China,e7f4417e-b705-422b-9099-20ba5091d2d7
+024c1ff3-e7c2-482e-968f-fc333be9d246,Uniwersytet Opolski,Opole,Poland,f468807b-ffa8-4608-b483-f797ce1b73a6
+c5a2d1ea-e162-444c-a011-71cbf113e221,The University of North Carolina at Chapel Hill,Chapel Hill,United States,acb31bf0-3185-4039-8274-dbacd02af8b4
+537a9b5b-5006-461a-b17a-e07a0026d961,National University of Singapore,Singapore City,Singapore,acb31bf0-3185-4039-8274-dbacd02af8b4
+73399758-9674-4e0d-bdfa-734886a71381,University of Brighton,Brighton,United Kingdom,bd3949a5-bb49-4980-9b6f-b063e3cdb567
+e8a71406-bd64-47d4-849b-a8fbd37954ca,Oulun Yliopisto,Oulu,Finland,29f59e6d-de9f-4bbe-8dd9-fbc5e2b338de
+582bb6e8-ad6b-4dc3-99df-b361a9b2d3f1,Chr. Michelsen Institute,Bergen,Norway,29f59e6d-de9f-4bbe-8dd9-fbc5e2b338de
+6d78e1dd-af01-444d-b47a-77e287b62663,Universitat Rovira i Virgili,Tarragona,Spain,b271e076-8044-4d21-b462-5f086825aa37
+e8fd1813-b84d-48b4-ad17-20c1f3ca1dc3,David Geffen School of Medicine at UCLA,Los Angeles,United States,44059bbe-2c30-45ad-a03d-937677b8d4e6
+88cd27a6-6889-4787-b3eb-149626bb7afd,CHU Sahloul,Sousse,Tunisia,53dd9c82-2d70-414e-b2fc-462a174491e4
+b815cfbb-2a9c-4539-8085-4e349e80b910,Bentley University,Waltham,United States,9ca24585-8d94-4f6e-878f-3f8ca2143d0e
+5efd10fc-35b0-4160-bcd4-119b1ba718b1,Research Institute of Wildlife Ecology,Vienna,Austria,b0925c7f-8418-452e-b3d5-f3be7b04cbfa
+8db0651b-d0d8-4aed-b851-3563fe3eb879,Universidad de Extremadura,Badajoz,Spain,af0f85f5-c10c-4795-bce4-09bfef7df727
+40bdff6a-b2ae-451f-b474-f5aa91d91c3b,Jinan University,Tripoli,Lebanon,b34d92f5-d418-46d0-affa-1b0a9174d648
+60dea43b-7c0b-48c6-a076-1546592d38e9,Universidad de Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Spain,df869014-1ac9-4264-a478-0dfed0b63287
+af7169b9-faaf-4784-a6d5-6b7f098e2bdc,"Altai State University, Barnaul",Barnaul,Russian Federation,37ad9d1e-1fcc-4ca5-babf-c2233837e071
+6a8b9a71-9fe3-460c-acf3-1ca9b2ae0b21,Kyoto University,Kyoto,Japan,e7d992d1-ec57-4ae7-82fc-7c695b718fb6
+d3900099-6411-4e16-ad3a-11f4d34e08a1,Uppsala Universitet,Uppsala,Sweden,caff42cb-34bd-4dc5-a707-acec0a892178
+83faa241-8d54-47e7-a37b-4b93db5415ce,Università degli Studi di Napoli Federico II,Naples,Italy,3d82a686-579e-44bb-a8dd-8d5c7cab9d41
+f98b61cb-b36d-47da-ae4f-3e47ddf74688,Université Moulay Ismaïl,Meknes,Morocco,cc8ff770-d21b-4aac-9aa9-a3aa41a7ff44
+05030514-4c37-4eef-8563-cf9b9edf7243,Marist College,Poughkeepsie,United States,7077534a-ceee-4fb3-84d4-c3094ff0a155
+abcbd2f8-e0c6-4f8c-adc3-bace6eea9355,École des Hautes Études en Sciences Sociales,Paris,France,607f0ba0-f1d9-47de-966e-c9895f8589aa
+034084b5-f3b0-41a7-a13f-12584cc6adaa,Sorbonne Université,Paris,France,f8146d1f-c2d2-45ee-ae2e-c39497f2eb82
+2f24ef0c-9f72-4004-95cf-527a03de922c,Fujian Agriculture and Forestry University,Fuzhou,China,0b2aafb4-0998-4665-84f5-6b4d4930aea4
+6ccede07-e9af-4e1f-bad3-38f1102e36a3,Qingzhou Yatai Agricultural Technology Company Limited,,China,0b2aafb4-0998-4665-84f5-6b4d4930aea4
+7fbae39f-11d9-4631-a7d9-be0bc80b29f3,Rhode Island College,Providence,United States,44305512-9779-49e5-bb50-82c0c23cea32
+ba736304-739b-4a94-838b-ff30f68410e7,Washington State University Pullman,Pullman,United States,1842d35b-daa1-4a9e-819c-e077de6a0fa1
+07f2ee46-fb25-4546-8abc-9e23d5b4c1cb,The University of New Mexico,Albuquerque,United States,a90c7e99-4f86-4943-8942-82559d0abe49
+f13a0915-eee1-4eb7-81b8-ca5a4ddc3283,Institute for Problems of Regional Economics RAS,Saint Petersburg,Russian Federation,7f65d461-5f6e-479f-b843-1c2fb771d9e8
+5231dfa8-269e-452e-b462-a850e9d723a0,Qatar University,Doha,Qatar,13a186e3-701e-4f1b-aa66-52ce6ac6c031
+f3fc4006-6031-46a3-be77-cc057923525b,University of Montreal,Montreal,Canada,8868fdf1-2a90-46f0-8ae0-2be4a42c1025
+9880e47b-d9dd-4f91-a0c4-bf7fb6f77f6b,Universität Leipzig,Leipzig,Germany,428c9d02-e9fd-4138-a43e-b64d7ec17e23
+ccacc6fb-6400-44e9-a333-7af026601552,Iowa State University,Ames,United States,3b9b6584-f93f-4901-850e-641ac0d6f8cc
+36e22750-257d-4917-87e6-aa7abda31a0d,University of Waterloo,Waterloo,Canada,45982e98-993b-43f8-a982-c69eea3597ea
+1e40f51a-7e4c-49cb-9d1c-dab2d216fa32,Chengdu University of Technology,Chengdu,China,1192539a-9a40-4e3e-af1d-ef8148ec6911
+f1e31bb8-306a-44d4-9c24-1717e3ee529a,University of Stirling,Stirling,United Kingdom,74f2bcc9-4f42-4973-82a9-899bc424d86b
+a1c556ad-212d-4ea8-8dc8-56cbb73cbded,Mycorrhizal Systems Ltd,Leyland,United Kingdom,74f2bcc9-4f42-4973-82a9-899bc424d86b
+4b1b2ac7-9832-409b-890e-63ec69849c0a,Universitas Airlangga,Surabaya,Indonesia,5584d7c0-7fee-40b1-b39b-caaedb997ea9
+b7b71df5-c227-4523-b018-a422be696f32,University of Wisconsin-Milwaukee,Milwaukee,United States,b2d4566b-af7a-4dcd-b277-8f8f6762ce75
+3bafcdda-041a-4643-a54b-6530bc425763,Ecole Nationale Supérieure d'Arts et Métiers de Rabat,Rabat,Morocco,fb6f5f57-8e02-4f74-9781-25772c5a64f2
+344e3c7c-1254-4fd1-82ce-e8353065618d,Centre d’Études Biologiques de Chizé (CEBC),Villiers-en-Bois,France,e2ceb55d-5ac7-4657-b371-ea0f098d6b8f
+a8c6ecad-f0fe-45e3-835e-b84fe423329b,Università Cattolica del Sacro Cuore,Milan,Italy,17abf20a-e049-4afd-9b1f-b07baa5f9c4c
+d0e3937c-27ef-422b-a71b-2272dfd53d0e,Chosun University,Gwangju,South Korea,afe2b6ea-8126-49a2-81a4-fa2c356c80d3
+ffcc12c4-9bf7-4de2-9908-24ca1157457e,Massey University Auckland,Auckland,New Zealand,d46d9225-d0aa-4b60-bb67-d60d20bc5a7f
+d3c13933-361e-4d86-86a5-0214c06666fe,University of Cincinnati,Cincinnati,United States,d5e3da07-5112-4ddd-a6c1-e77b2ec573bf
+5c1dc2e7-9a05-43d2-9dc4-779d5825abc1,Universidad Carlos III de Madrid,Getafe,Spain,539bffce-ff00-4454-8a21-828474f0cee1
+a63f913c-5a22-4af4-bc0d-3dc396cc8446,Indian Veterinary Research Institute,Bareilly,India,b1fced42-106c-4405-a203-d90c392eab49
+5c90c087-0e55-4433-b0ee-096e0869173b,HEC Rabat,Agdal Rabat,Morocco,fc295b18-e532-487e-a587-c8eb43bf2d04
+da61538c-6919-4db5-8f25-089886b0769a,"University of California, Davis",Davis,United States,499acc49-090c-4f31-bae2-cf7f7ee1faf1
+9ced1d8d-a9bf-43ac-adb8-f4ba0e194169,Universität Innsbruck,Innsbruck,Austria,749ee888-960b-4147-a3d4-abae0a9d58be
+3848b63a-f0e9-403f-8308-be30f23f0ca8,Universiteit Gent,Ghent,Belgium,cd1723aa-ce10-4098-86e6-dd5c8061fcd5
+e5004dba-18f5-4611-a5b9-c147641a7104,Saginaw Valley State University,Saginaw,United States,00ac2098-e946-41ce-9438-c7c7da698c7c
+56ce0156-443c-45f9-be23-d68465006323,The Hospital for Sick Children,Toronto,Canada,0b8de8c0-42c1-4421-927b-aa452292fd67
+8e1da704-693c-43d4-81e7-41b2ff246560,Financial University under the Government of the Russian Federation,Moscow,Russian Federation,708122af-cdce-4d02-a24d-7b066f91e012
+ab66b41b-4e6d-430f-87f4-8ca26fa228fa,Columbia University,New York,United States,7d15dc56-a07f-4e1d-8758-3bf727926e76
+5e5fc2bb-df42-422e-ac49-2f218e8c6c8c,Purdue University,West Lafayette,United States,9c76c999-40e5-48c4-8188-c0581c4302ac
+33a8b42c-281f-49b6-a567-dd002c2b1fcf,"University of Oxford, Somerville College",Oxford,United Kingdom,c128827b-318f-4564-a9c4-092c6c4baad7
+7fa3ce69-f6ad-4bb4-9d9d-d92135104ef3,London School of Hygiene &amp; Tropical Medicine,London,United Kingdom,9c291af3-babe-4785-bcde-767219249260
+22c2faab-5d5d-4178-a9f6-5d3c468204fa,Nihon University,Tokyo,Japan,21c80d59-3daf-41f4-991c-14aa851a04dd
+32360379-946f-4f34-bc7b-cc51d0c0e320,Miami University,Oxford,United States,337683ec-9d29-4860-ba05-7d5ccd4f6823
+083127e9-b93d-42dd-b406-07ba0ef5d8af,Emory University,Atlanta,United States,8dd3d8da-4d81-4d34-b1ca-194f2d24c680
+6024ab7c-3f58-4a75-89b7-482b565abcd1,Universiteit Maastricht,Maastricht,Netherlands,d86501dc-1afc-4d2b-930b-2c2ea99f31e2
+2ea4f645-ef3f-48e1-b760-07656fb9709e,Ben-Gurion University of the Negev,Beer-Sheva,Israel,22e481f6-509d-4854-b204-0874cbce340d
+c15ca753-9179-4709-8bd2-a8a29e9c792a,Belgian Population and Family Study Centre,Brussels,Belgium,c2f31526-3134-4597-9b53-7d057e4eb732
+f343571c-19ba-46b0-bc6c-720d9463d9e8,Elliott School of International Affairs,"Washington, D.C.",United States,e7a081a1-2c08-43fe-8aa2-958754e0198b
+96b38d21-78d1-43d8-aace-8f51321f1b04,University of Leeds,Leeds,United Kingdom,57179664-7ba8-43be-abf0-a12ee59d85ae
+6260f2cc-e48e-47c2-8fd1-3fe2de76909c,Ivey Business School,London,Canada,e0150e8d-f62e-495d-973c-45192fc2c3c9
+90ab2431-4966-46af-a570-964d4445f2ba,Western University,London,Canada,e0150e8d-f62e-495d-973c-45192fc2c3c9
+7dbd24e1-2dda-437b-b190-6492a2d5c323,Consulting Research Author,,United States,b42e9ecc-9008-499b-a519-13f914759d80
+91cd9f2e-9b26-4eed-abc1-9700d744b11d,Universidad Sergio Arboleda,Bogota,Colombia,23a01ea2-da54-4a0d-a549-a1958f63678b
+41b6e01a-f405-4778-a602-d38b99be0015,Stanford University,Stanford,United States,23842f41-84e7-4bdf-a5ea-7855403a52cf
+b035dc22-ab1a-4061-9642-937e966e0971,Duke University Medical Center,Durham,United States,95bb72ab-1779-4a48-9de2-32c41997169f
+c502be67-ddf0-4c8d-8131-62718c43b038,Ningxia Medical University,Yinchuan,China,95bb72ab-1779-4a48-9de2-32c41997169f
+7d2f3f37-5ac4-4288-985e-35d56d7e5e76,King Abdulaziz University,Jeddah,Saudi Arabia,95bb72ab-1779-4a48-9de2-32c41997169f
+475206b5-238e-400a-b481-46e12eb870cb,Case Western Reserve University,Cleveland,United States,48fb1353-1f47-46ba-a99e-e1857e2ff442
+0983546f-9dd3-46ce-8c32-d9e4a81de463,Cornell University,Ithaca,United States,64d95dac-cdd3-48bd-b3d8-48f5cc478627
+ccbfb386-b08e-4663-8427-e2adc024d6df,Saint Peter’s University,Jersey City,United States,54909143-66b5-456f-ad48-4de3132bd0aa
+37f9e71d-2ab0-491f-a4cc-e68d8183c365,ESDES,Lyon,France,d236f5a1-7bce-4ec0-ab9d-c2e5e79aba27
+b05c8f33-19f7-4aee-9cc6-808da2483fd5,"University of California, San Francisco",San Francisco,United States,e847a7de-09cc-4454-bf63-367378ee164c
+4b336dc1-57ce-46cc-81f4-1857766f0870,Humboldt-Universität zu Berlin,Berlin,Germany,9d9231ad-611c-435c-afa9-9f415c4bd9b2
+b7943743-876c-4ea2-b8c5-f8a7a6cf1897,Punjab Agricultural University,Ludhiana,India,502df961-e2f9-4fe1-b321-bc7885b768f4
+0d1156f9-818c-4277-8900-7db902450db0,Florida State University,Tallahassee,United States,b94c491d-6d6f-4d67-b4f8-57b1ca5391f1
+6eaab869-20e6-4548-a844-31e222be1e95,Mae Fah Luang University,Chiang Rai,Thailand,5c7345d4-5248-49ee-ac92-df813cbac021
+a8669fdf-fe22-4068-8bfc-5c54cfcd103f,Kunming Institute of Botany,Kunming,China,5c7345d4-5248-49ee-ac92-df813cbac021
+dd3633c8-c90e-4bfa-b88a-1d7f83824308,East and Central Asia,Kunming,China,5c7345d4-5248-49ee-ac92-df813cbac021
+8978f1db-059c-4477-b220-5d79387f2093,Mushroom Research Foundation,Chaing Mai,Thailand,5c7345d4-5248-49ee-ac92-df813cbac021
+b5266246-08f7-4ba0-9e7e-be7b2a57448f,Griffith University,Brisbane,Australia,f50e78b0-34b1-4353-bc3a-e6f8a42a385b
+bb38c020-a551-42ac-aa4e-d9b77eeb4aab,Universitat de Barcelona,Barcelona,Spain,39aeae1a-f136-4c32-b45e-7815546002c2
+f49b7aa7-28fb-4fb5-ab63-9fb1b260c023,Armed Forces Medical College,Pune,India,f3447daa-183a-43fe-a1b6-0e9864d4ff69
+d7576a15-d42e-492e-b213-aa25584cf65b,The University of Chicago,Chicago,United States,e895fbba-a603-4c2d-8020-60c4ca2b27f7
+58c51b77-47de-4b83-b7a3-c106c384b594,"Vavilov Institute of General Genetics, Russian Academy of Sciences",Moscow,Russian Federation,120b3149-3fc8-42df-b9a9-ddacc01c5b34
+24e14000-9a34-4430-9427-a6be4df0da81,National Institute of Technology Rourkela,Rourkela,India,022003cc-e36e-4970-97ca-8c95ccc8a75b
+43280ec9-d451-49f6-8b33-45009a4b8e54,Goethe-Universität Frankfurt am Main,Frankfurt am Main,Germany,a7ea611f-fc66-492d-80e4-f8364309c219
+527ef022-3b32-44ca-8331-ff8c82dd9c49,The Graduate Center,New York,United States,8e0b51aa-9de8-44a3-95e1-9744f6860a96
+6593faa7-285c-413c-899b-0e191e57bf5f,Università degli Studi di Cagliari,Cagliari,Italy,b5698259-4bb7-4e93-b300-f21735334094
+065c7a25-785d-4ab1-965b-d89a0d17b691,University of Exeter,Exeter,United Kingdom,1130dbbc-eaaa-4627-99ba-99b1ef20f423
+077ea9c6-a1db-47d6-9881-dc60656e0147,British Academy,Ankara,United Kingdom,1130dbbc-eaaa-4627-99ba-99b1ef20f423
+ba67ae31-056b-49c3-a053-f5d510303c2b,Centre for European Policy Studies (CEPS),Brussels,Belgium,a90fc913-9116-4b69-b05a-06d3b80c20e2
+da5deeaa-9b59-4b64-828d-75d47fbd828c,"Intergeosearch, Inc.",Annandale,United States,1e6c3d1e-3fdd-457f-87cb-2a73ed722812
+ce0d90e5-d31f-4ec3-ae1b-4b0f83b1a03e,University of North Florida,Jacksonville,United States,ea7bea9e-df86-483c-ab79-caa6d1ff3a94
+f8abfbc4-bb58-4f1f-8d42-0399186e96a2,Health Products and Food Branch,Ottawa,Canada,ecd98701-6cf0-4f79-bea8-6246f5f9e3e8
+cda63941-5464-4945-a5cb-a425b78c3eb6,Middle East Technical University (METU),Ankara,Turkey,b93381e0-119d-4dea-b1a2-921be8769883
+0199b6b0-dfaf-4738-bdad-c022ed01c0be,City College of New York,New York,United States,31d97e3e-861a-4d24-848a-36032783b991
+2b5b361f-ace2-4bb1-b138-f3002e93e48a,Parnassia Psycho-medical centre,The Hague,Netherlands,2739283d-b0a8-41b8-89d5-c0982882248b
+188ca389-b65c-4a58-833f-d498b3bf0b12,Amsterdam UMC - Vrije Universiteit Amsterdam,Amsterdam,Netherlands,2739283d-b0a8-41b8-89d5-c0982882248b
+fd8b0133-c6a7-4b09-aa37-70482466a7c9,University of Essex,Colchester,United Kingdom,4d689f14-ebbd-4eb4-a649-7d075945df15
+32c618ea-e15b-4e86-9b58-e964bb1128a6,John F. Kennedy School of Government,Cambridge,United States,9299529f-05e5-4a81-886a-8f7be2ec5f71
+d5df4b89-8543-48ec-988b-169484fa8819,Université de Genève,Geneva,Switzerland,b9e141de-470c-46a1-9b19-021eafa74378
+a5b06490-5c35-4c59-9ca3-1841095e560b,American University,"Washington, D.C.",United States,d73b2e5e-43fd-4822-a6ec-fa8f7f7af731
+c7c716f0-8416-496e-a640-98bdee89a254,Boston University,Boston,United States,e10f4f81-f564-442e-bc15-d4d60942881d
+3be097fe-2949-4dbb-9499-14fadbe695b6,Swansea University,Swansea,United Kingdom,200082d3-9a02-411c-9cb0-4afa9a214c4a
+23050cdc-9010-4e0b-99b8-aec802d853a7,El Colegio de la Frontera Norte,Tijuana,Mexico,a7683d68-fadd-414a-a960-7b741f195ae6
+585ff0e1-590b-40bc-a67a-95c7c9446c06,University of Jyväskylä,Jyvaskyla,Finland,00325bc1-5f6e-4a43-8db3-26cf60b0098e
+08b15032-2e67-49cb-a7e8-a77495a2f259,Museum of London,London,United Kingdom,9f8301bb-495e-44c4-bf13-c84fd9c62fef
+ebedc690-3181-4512-8af9-231a34a5eeb4,University of Kentucky,Lexington,United States,1494eb22-6bd8-4312-8555-bf5c0b7db99a
+7d2a5f03-7168-4bbe-a75f-d83fe79087f1,Aarhus Universitetshospital,Aarhus,Denmark,ad4be426-1e51-408c-aee0-25e5f3f468c7
+6f3649ed-9be6-49e6-9dbd-abbe5f7fec98,Texas A and M University - Corpus Christi,Corpus Christi,United States,94e4712d-30b9-4f98-8bcb-da37e9b944ce
+dde4cb95-0c54-4308-822f-871cdf0421f9,RAND Corporation,Santa Monica,United States,5b55a1d7-ad5a-400d-8551-e5301ab03a7a
+fa8af1f1-4789-4dd1-a257-f96d9f9f1896,Yale University,New Haven,United States,f9ec6c87-7aa9-4841-a2af-59d7788c9588
+46b1986d-7331-43b5-9d3e-43797ede0b21,Royal Docks School of Business and Law,London,United Kingdom,bb1f518a-e170-48ee-9c90-505fc42036f4
+021c814e-033b-4827-b35b-ba4b9e203cdd,SOAS University of London,London,United Kingdom,86858c97-ddb3-4056-b86c-4b9c4d55affa
+d72f73b6-268d-497e-8043-454bbe4f09cb,"Notre Dame University, Lebanon",Zouk Mosbeh,Lebanon,d23791c6-16d2-4397-b1e8-47075c090178
+bda0053b-7973-460f-8738-9d389de8ee9b,Instituto Argentino de Investigaciones de Zonas Aridas,Mendoza,Argentina,6d23f6b6-61e8-4f5b-99a9-19d61ffdc359
+a62470b6-7509-4c11-ace1-3477954955f3,"The University of Tennessee, Knoxville",Knoxville,United States,2658650c-41af-4952-bafd-632f5ce238c2
+1db87bd9-5f6e-4baa-b1e8-04d0dc8acc22,Carnegie Mellon University,Pittsburgh,United States,ed595584-748c-48bd-adbe-ab96823872dc
+2992f4ea-2740-40de-a0ab-9f50ae444c0d,ESSCA School of Management,Angers,France,f468df84-f96b-417b-a61b-10f9c82382e1
+15e38441-9b16-4baf-b097-06862154a961,Southern Federal University,Rostov-on-Don,Russian Federation,f9d6b619-6ad2-4904-97d4-c6575451f5f4
+0006997f-03cf-4390-8ba3-8b3d814a5d91,International Agency for Minerals Policy (MinPol,,Austria,f9d6b619-6ad2-4904-97d4-c6575451f5f4
+1f3189fb-9eb6-45bc-91af-980aac0f78f5,Atlantic Technological University,Killybegs,Ireland,ea801f3b-d6f9-40ed-9af2-a4fbb532f876
+ab1f676b-eeae-4177-868f-3472aaaf5c07,Saint George Hospital University Medical Center,Beirut,Lebanon,40180fe1-2d2b-4186-97bf-1a31e95c3470
+c43000d2-1c02-45cd-b493-989295b6cec0,Institut national des langues et civilisations orientales,Paris,France,4a6eea0e-e840-4b38-850e-21083d06cfab
+e0bc1ed4-28de-4ccb-870c-fcb290036b4f,John Jay College of Criminal Justice,New York,United States,8e0b51aa-9de8-44a3-95e1-9744f6860a96
+a0df72aa-da3b-4f52-b4a8-271a4174621d,Victoria University of Wellington,Wellington,New Zealand,8769e142-fe59-41ec-a309-c95c7b676eb4
+aff5ea43-5a2c-47ff-9ebe-c3461493a862,Oxford Brookes University,Oxford,United Kingdom,ecaecbeb-d7b1-47c8-a7ff-2be84d9cca91
+71cf972d-787c-4043-9099-7db790064000,Universitetet i Bergen,Bergen,Norway,759a1353-abb6-499c-8ae0-517a7e0a4fe8
+9daaf909-5b15-4625-8e69-6aa6c73dba60,"International Institute for Applied Systems Analysis, Laxenburg",Laxenburg,Austria,5f8ff686-7f2e-4392-bcbe-dc27aee7540a
+ca0c184c-5156-41cc-ab0b-1865fc13e831,Krakow University of Economics,Krakow,Poland,5f8ff686-7f2e-4392-bcbe-dc27aee7540a
+a2e0dc8c-c124-4625-960b-153e0054e87e,National Postgraduate School of Political Science,Algiers,Algeria,d89f4237-aac6-48e0-bb1e-58560c16a898
+3a6e9997-d1b6-4e1d-9b9d-e500639af210,Université de Tunis,Tunis,Tunisia,32714d01-583f-4dd6-bbea-4ea2fcc7a1aa
+7a1d6b10-23c7-43e6-ae70-098b6f3a611b,Istituto Affari Intemazionali,Rome,Italy,22fa36b1-99c3-4d0f-a833-5b178ace05df
+98f80f54-5eeb-4e21-8d35-e066562b01e7,Utah State University,Logan,United States,38ad236a-f662-40bc-820c-66d7d9c5f9ac
+c1702dc6-1b33-419f-8475-b71f1113edac,University of Connecticut,Storrs,United States,01b4519e-2dae-486b-84d7-8ad8c32d80b7
+90fee1a9-c671-424f-9436-23607c1d4b44,The Australian National University,Canberra,Australia,af967172-d533-4904-a4a1-5c4da1efbd82
+9704ebea-b25e-4d55-8f73-f340969af7b0,Universiti Sains Malaysia,Minden,Malaysia,005911e7-38d6-4b9b-b232-1089d3b26fbb
+4cdf3c79-6663-42a2-9858-df2eb6555792,National Institute of Standards and Technology,Gaithersburg,United States,1c322979-7fc0-4336-ab40-95a113f7846e
+4b48391f-4966-46ff-837e-7277f516e981,Universität Wien,Vienna,Austria,cde13825-faf7-4b6b-ab31-3dcc08e6af14
+4aaa80b4-4894-4637-a758-1be67b16753c,Budapesti Corvinus Egyetem,Budapest,Hungary,cde13825-faf7-4b6b-ab31-3dcc08e6af14
+58536d7d-c65b-4413-b316-5bf5fb3e4de7,New York College (NYC,New York,Greece,83c9f2c4-aae5-483b-b4af-97437741da39
+ac4b575f-d18a-4d67-919b-89702b028783,The University of Tokyo,Tokyo,Japan,30792ccc-cc61-4875-8656-4019ce4aed2e
+7dc732ef-88f4-473f-9ce2-7dd7c8187139,Islamic Azad University,Tehran,Iran,1cddabfd-5e14-4bb9-90b6-fc10d1c81b8e
+e71abcd0-6875-4f93-bfa6-7637dcef4200,Institute of Radboud Social Cultural Research,Nijmegen,Netherlands,290badee-f24a-4d67-8ced-cfd3490cd795
+40d8739b-8bc3-42ed-92cd-2800a15389fd,London School of Economics and Political Science,London,United Kingdom,290badee-f24a-4d67-8ced-cfd3490cd795
+b50b8fa8-2937-4e3d-bb3b-9c56c3f93a5f,Princeton University,Princeton,United States,397ced3b-71f6-4804-aa54-22849d412abe
+67eac79d-078e-41b6-979e-faec009deb29,Duke University,Durham,United States,95bb72ab-1779-4a48-9de2-32c41997169f
+f49ec890-d9bb-41aa-b439-63ce3c5646e4,Middlesex University,London,United Kingdom,d2945353-7a8b-4725-b3d5-e778298aad9a
+a1711a9b-59de-4f00-b390-fb2d25edefaf,Graduate Institute,Geneva,Switzerland,d2945353-7a8b-4725-b3d5-e778298aad9a
+b815d369-3cbe-4bfd-8f88-c321afcdd223,Lovely Professional University,Phagwara,India,b7d6091a-c452-4841-b496-fe89b774f1a6
+64558840-095b-4ebe-994d-cab3dd35bcc7,Emory University School of Medicine,Atlanta,United States,7424f272-8977-492f-b081-2d21a3961781
+7058c4a9-6cdb-4a70-9124-70300eac2091,UNC Gillings School of Global Public Health,Chapel Hill,United States,0752b944-68fc-41ee-976a-7370cb5c4ca5
+30a7c695-1853-4321-9c0b-98cfa892d1fd,Wissenschaftszentrum Berlin fur Sozialforschung,Berlin,Germany,8cd281bb-28d2-4966-b7c5-f722dfcf7dcc
+d5e86518-61ff-42bd-a6c2-e50d6991e0e3,Universidad de Salamanca,Salamanca,Spain,bc06166c-68dd-4586-bcd2-15351a8324be
+31d318f7-9b53-4135-bcab-16a961f57e81,"Arab American University, Palestine",Jenin,Palestine,d7512cca-4e58-4dbc-9da4-366cd8380449
+e6d461e1-f62f-4049-a992-718e87c2369e,Lebanese American University,Beirut,Lebanon,117cf0fd-531e-4bbb-94d5-6747d089e4c0
+0c45e68f-a1bc-4200-aedf-a6dd06accfa7,Newcastle Business School,Newcastle,United Kingdom,0d243085-1d9a-4f3c-bd85-6ee81c9f1094
+4803c3e1-d62e-4efb-a863-7495e5eaff89,Ankara Yildirim Beyazit University,Ankara,Turkey,0d243085-1d9a-4f3c-bd85-6ee81c9f1094
+dee23b74-7545-4bd1-af30-2405d50fe692,Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,India,71950381-be5b-486e-9ff9-c50d3c2c4fe1
+d6a99430-308c-4d62-bc0c-45fd6acdeced,University of Aberdeen,Aberdeen,United Kingdom,2ed1897e-4dc7-4f92-b73b-944e4195fc17
+e63ab49c-f9dc-46ab-88f0-89a83bf94604,Kyungsung University,Busan,South Korea,210bfa6b-1e1c-41de-9648-911aa721cbe4
+d63792c7-695b-41fa-828b-434e9c97f43f,Tallinna Ülikool,Tallinn,Estonia,8cdad3f7-fb61-41bb-830f-96cc27e14ffc
+5fe06928-55e4-45fa-9954-017ac10894ba,Northeast Institute of Geography and Agroecology,Changchun,China,72b12ac7-9753-4c4e-865d-1c7c58b81b58
+4331e34e-b905-459b-b449-1dd5c9dad99e,Université de Toulouse,Toulouse,France,44c2f0f0-1735-4662-9daf-a3e23345a7b5
+e571efe2-9af1-4222-b360-c1d91154faf2,University of Leicester,Leicester,United Kingdom,433fde9a-7cbb-4a33-bf45-34933c3110ab
+faebdf0a-8891-4f22-82d0-e51724f72da5,Lancaster Environment Centre,Lancaster,United Kingdom,f9e6c5a6-af6d-45e7-9924-38baaa832f6c
+8be449c2-3333-4be1-8c91-3fcde3ef5d7b,University of Rajshahi,Rajshahi,Bangladesh,f26cb19e-a1ae-4fa6-b0fd-207f009f49de
+38e9dee3-199c-4f70-a3d1-8d65d25c5241,"University of California, Riverside",Riverside,United States,0d93d46f-3248-4126-a3bd-564ecb1f827b
+6d8cce56-4391-43da-875d-77a12f7cc920,South Asian Academy of Management (SAAM),,United States,7176ee25-8127-45f4-879a-ce5c4c1f07ea
+47e678fe-4fac-47b1-bf62-3bb7a55b7ba0,Shailesh J. Mehta School of Management,Mumbai,India,57aa38bc-7c9e-4c84-84d6-fe8297bc46ed
+0be5261c-1732-4a4f-a9ad-f947029e8c9f,University of Wisconsin School of Medicine and Public Health,Madison,United States,9e25a61b-0cca-4c5e-bc1f-c94717fd336d
+eaedad26-b02c-4b95-b396-89f44905590f,University of Wisconsin Carbone Cancer Center,Madison,United States,9e25a61b-0cca-4c5e-bc1f-c94717fd336d
+6d74b80a-c708-4844-9d45-225b61d9cff8,Faculty of Humanities,Manchester,United Kingdom,6f47260c-2730-493e-8fa1-31488994cf8b
+8d0209d3-60ee-4e2e-bb19-4d0101c3330c,The University of Sheffield,Sheffield,United Kingdom,33ee3301-225b-4d90-8e6c-edc096413acd
+614a7018-7da7-452e-a5a7-968a21ab6a55,Hebrew University of Jerusalem,Jerusalem,Israel,cc1af949-e9b4-4f03-bbad-72d85dbe9dcd
+590e3908-459d-4e5e-995f-7f74d0ed9958,Queen Mary University of London,London,United Kingdom,f2959685-7f26-40ba-97fa-7be080f5ab89
+7ccff767-67ef-412b-b5b7-c1cfbcb15629,Manchester Metropolitan University,Manchester,United Kingdom,e5d9cc61-22f1-4b69-885a-b0e217247ecd
+a5cebe1c-6c8f-4bed-85a7-b3b51673ce7e,Indiana University-Purdue University Fort Wayne,Fort Wayne,United States,3847a3db-9e5d-49cb-861a-35a102b4610b
+b2fa67af-97a7-4c70-85c9-da2d6edac0ee,Clalit Health Services,Tel Aviv-Yafo,Israel,3cceef57-8892-4600-ad42-cbd50cad4658
+d2982c77-5802-47e1-bada-99ccb24b463c,Technion - Israel Institute of Technology,Haifa,Israel,3cceef57-8892-4600-ad42-cbd50cad4658
+9d666079-a7c3-42f4-a193-e10b2b57ddd3,"Royal Holloway, University of London",Egham,United Kingdom,4c2bee62-cd1c-49df-978b-989140c40408
+12756277-be7b-4eea-898a-2aee38b140b4,Rikkyo University,Tokyo,Japan,4c2bee62-cd1c-49df-978b-989140c40408
+9ea50785-9c56-430b-b305-11a405c4d054,Wageningen University &amp; Research,Wageningen,Netherlands,4c2bee62-cd1c-49df-978b-989140c40408
+f86b8d57-e5a3-4db9-bae9-f0dc9f42b9a7,The College of Wooster,Wooster,United States,9f8341c9-fca0-4209-b819-eafd06f73a8f
+de19113f-6231-42c4-a15d-ebcd345b6ded,The University of Alabama in Huntsville,Huntsville,United States,5ed46230-db52-49fc-8e75-5efaf6bd1adb
+27fd90bb-1162-40e8-991f-476758cdb2b7,Villanova University,Villanova,United States,72140376-a143-4502-9cf9-1b7d1df12b0d
+a34695a0-949c-4813-a144-74d90191cd4e,Universitat Autònoma de Barcelona,Cerdanyola del Valles,Spain,4fd811e9-bbb2-4e6d-a941-409a0f70352f
+4f90a659-b5c3-40c4-b095-6150ce98a21b,King's College London,London,United Kingdom,30faf7e9-92fe-4af2-b441-e84b61e48b9a
+37a8acc9-8aa6-4c6c-92df-efee5c36e45b,University of Alberta,Edmonton,Canada,55c96f58-d4fc-49f6-a7af-5370cbcd9067
+bce1e891-e5ab-4078-92c5-3f1be7964fdd,RTI Health Solutions,Research Triangle Park,United States,42ac8013-ea20-4975-ab64-32b969822a3b
+8dd75ee4-2293-4bbc-a454-681671573bcc,Northeastern University,Boston,United States,d1df01a3-db7f-4d38-a973-22f828ed6646
+3fc964d4-c664-46d3-ac6c-0d7a31087aaa,Institut Pasteur de Tunis,Tunis,Tunisia,edb5f924-3c69-46be-8e06-f9a6ede0a7c5
+2b9974c1-0835-4cde-935b-d5a5365915c2,Rutgers Business School—Newark and New Brunswick,Newark,United States,6ffb279f-325d-49ab-b554-d0693993e22c
+ad83da34-ce20-43d6-a993-d8fdb68b157a,Simon Fraser University,Burnaby,Canada,65dd8618-2226-4f76-a709-2b2e7e0967c7
+d1d50041-1ea3-481f-aa46-d9a054b56872,Wilfrid Laurier University,Waterloo,Canada,09f12ba9-b1d2-4c6d-9591-ed11ca5c0a41
+1d0199f6-c68f-407d-85e1-e0028c1a6b1d,University of Notre Dame,Notre Dame,United States,8438e62b-3160-4130-bb7b-b5afff4c5b3e
+54f715a2-498d-4e42-992b-bf1f1e1e5f65,The University of Utah,Salt Lake City,United States,07cc4e1f-73eb-4a24-825d-937bf2e4ab89
+9178fcfd-5b93-4fc0-b852-7ad3a5e9eda5,University of St. Gallen,St Gallen,Switzerland,d33b0621-4a53-4ba5-afb7-d4e94a490297
+d4addf4a-c584-4237-9996-f62956d3606d,NUS Business School,Singapore City,Singapore,ff28f208-cee6-4988-82cf-b0e36a5f3b31
+77e9b119-b517-45f9-98b8-5487f0b3554e,Iscte – Instituto Universitário de Lisboa,Lisbon,Portugal,6605e49b-09b9-4aac-98fa-f4be6104a011
+a9c1b522-5290-48fe-ae7b-4dd0e0d37434,"University Research Co., LLC",Chevy Chase,United States,931a53a4-2ddf-48e7-96af-122acb3e6ade
+3708947a-1888-45af-963a-99da6bd05600,Universitat de València,Valencia,Spain,66737947-9652-4be8-9b6f-54bf12260ed7
+1193a6c6-c94f-4f65-b16d-8b9e06831921,Arizona State University,Tempe,United States,adcafd0c-8e17-4041-9524-11d4f89d93c2
+6a4a1d3a-e737-4e25-9643-50cac3153e36,Universität Rostock,Rostock,Germany,8c2f9a4b-f2a5-4341-8719-0cac5c0a02f7
+69ebdac0-fbb4-46dd-bee4-f9af09df69dd,Long Island University C.W. Post Campus,Brookville,United States,deef3938-242c-4018-bf50-2802782a7d4b
+e2f45007-40f8-4f21-99fb-1adeb8944259,Sahloul Medical Center,Sousse,Tunisia,4010d39e-84f0-4ca1-8a70-5ef29ad87c0b
+9bfb26cc-f7a8-4538-bc45-bf4cf23193ca,Universität Mannheim,Mannheim,Germany,873bdf2a-3a7a-4526-a11c-79f2ce4e3b20
+c7ec4946-8465-4634-bf8e-0bc713f6bdd0,Reed College,Portland,United States,bc07808b-c2df-4a85-b605-52f51d05a7ae
+7d46b5d4-b30d-4011-89ab-2d904d0c30fe,Université Savoie Mont Blanc,Chambery,France,4e534f33-76ed-4558-941f-9f27c15b4ac6
+e1f48596-be47-4fbf-9a30-db0e65911ea9,University of Sharjah,Sharjah,United Arab Emirates,7d5535c8-cb3d-4080-97bc-741ebdfec709
+5c010614-3850-426c-8afd-e32d9cbe3979,Geological Survey of Western Australia,Perth,Australia,1e49ba41-2a8b-4ff7-9136-59d42af705dd
+2c527c11-7c6a-4a7e-884e-1ea5545667f3,Instituto Nacional de Tecnología Agropecuaria Buenos Aires,Buenos Aires,Argentina,4e4e51f2-b788-4d23-be28-78185b1900ce
+d788c38b-58b3-4d91-b57a-f7ef0dabe061,Consejo Nacional de Investigaciones Científicas y Técnicas,Buenos Aires,Argentina,4e4e51f2-b788-4d23-be28-78185b1900ce
+68ca3302-e21e-4445-80c5-8ec2c50322b4,Universidad de Buenos Aires,Buenos Aires,Argentina,4e4e51f2-b788-4d23-be28-78185b1900ce
+27946b6b-21a8-4352-9a8d-8ed70a92186e,University of South Carolina,Columbia,United States,e3112d37-a0e7-4d45-a2bf-cbdbd1336301
+23129860-2d0d-4046-bb9b-b377bd35df23,The University of Manchester,Manchester,United Kingdom,42a4647e-c7ac-46c0-b7bf-818ba39427d7
+24d342eb-9706-4e2d-aa31-18b6b9de6eb0,Rutgers University–New Brunswick,New Brunswick,United States,c1ab19af-c5d1-4094-8b72-f41832f74e46
+b75aec6a-9739-455c-b134-415d01f9cad2,Hogeschool Gent,Ghent,Belgium,618014cb-dd5d-4163-81ed-33b901f398c8
+9c03a7e3-8d89-4004-8560-83e567bb1edd,Research Foundation - Flanders,Brussels,Belgium,06afd31e-963a-4ab7-84be-ad195737378b
+3d0251f5-1df6-470e-bbec-94d2fb75e301,Kelley School of Business,Bloomington,United States,8b0cc2e1-e82f-4b20-adc2-7bc65603a34c
+30ab73fe-eb8f-4a1a-96e0-241de1f24231,Wake Forest University,Winston Salem,United States,6ae81e41-96d2-4552-bc6c-e3e1f0cd6974
+45dd26ee-083f-432a-bee4-3d3d5925cc68,Stanford Law School,Stanford,United States,8aea204f-0e63-4bbe-a88d-e6004945c1f8
+7940083f-5566-400e-a078-2f532eaaa08a,University of Malawi,Zomba,Malawi,192b3dcc-ff3f-4b8f-97b3-e3ebd3b9c2d7
+39f297e9-ebfe-45dc-85e3-44cace29cb51,INED Institut National d' Études Démographiques,Paris,France,8c2f9a4b-f2a5-4341-8719-0cac5c0a02f7
+07f3781d-9cca-4906-88cf-5821a256c055,"University of California, Los Angeles",Los Angeles,United States,0c62c5a3-f955-4e7e-ba57-9128543b8a5d
+c02a8031-25ad-4a51-bcd2-334adcdcb0f3,Frank G. Zarb School of Business,Hempstead,United States,0b1b5da4-c743-4378-a4c9-d8327766f65c
+bdc32aff-3d82-4135-bfb8-176722ddcf44,"University of California, Irvine",Irvine,United States,a6c01379-af64-45e1-b6ab-fece62128d29
+f2e598cb-3b79-4d25-a75b-d7feff589d7f,University of Calgary,Calgary,Canada,6e527554-4481-4603-bedd-9d4b5821ebdf
+da37d84a-9c9a-4027-b1a7-571ddeadc458,Virginia Polytechnic Institute and State University,Blacksburg,United States,f1b27d05-6fcd-42e6-a5da-f7a79705c599
+08417766-2b76-4838-86f6-7704db272765,"Population Research Center, The University of Chicago",Chicago,United States,eafe3d77-a580-4a87-be94-da993aef2060
+a487fd23-40af-4c05-a4d4-77b27ce94f27,University of Illinois at Chicago,Chicago,United States,eafe3d77-a580-4a87-be94-da993aef2060
+9a82648a-6cfb-480c-96b7-3deedbbbe215,San Francisco State University,San Francisco,United States,eba859f4-1f6a-4fc8-a8fc-0b13bcd36f60
+933a3267-9044-4387-ab7d-0d4181b05c8c,The Ohio State University,Columbus,United States,d6974010-f37c-43d1-b6fb-cae34a5c4dda
+eeb8f96e-5608-460b-8860-250ed0c49b61,University of Washington,Seattle,United States,edbdb9c6-7248-453a-a267-23fa83350b99
+bbeb4df5-a0ca-48e1-9d2b-feee1aef2ea5,Erasmus MC Sophia Children’s Hospital,Rotterdam,Netherlands,14c60146-2651-40e5-8a4f-57cbf9ff3e34
+5f394580-4e71-40b3-91d5-d48e72ecb31d,National Research Council,"Washington, D.C.",United States,c9dcb62c-3d85-4381-a609-5b255b0b4ce4
+f5553ba1-133f-404a-9a30-d411236dc8ce,Population Council,Seattle,United States,c9dcb62c-3d85-4381-a609-5b255b0b4ce4
+e914fcdb-d648-4825-9927-1c7436bccef4,Center for Desert Archaeology,Tucson,United States,932d1cd2-6986-4a7c-8d40-9679272bc1c7
+f18d4e8d-8030-45e0-8482-06e47d41c281,Lehman College,New York,United States,5265fce0-4353-4d59-bd9c-abf7e1cdf9d8
+82852c81-0ace-4b3a-b678-a77c3ba337d9,Institute of Economic Growth India,New Delhi,India,4a4d6721-3195-46b6-8dd2-87bfafe37893
+cafbeccb-cc69-46f6-8a9f-e41fc2b2e0f8,The University of Edinburgh,Edinburgh,United Kingdom,232b665c-42b3-48d4-a3ed-8be1fb38848a
+133dd6be-5c09-4c0f-892d-201ecf98a7e7,Carrera 7 No. 73-55 Oficina 1202,Bogota,Colombia,91f4878f-1ba9-4328-855b-7d66ac7a66a1
+67615dc8-1170-4a7e-bfb1-991c115ec49b,Div. de Salud Fundacion FES-Social,,Morocco,91f4878f-1ba9-4328-855b-7d66ac7a66a1
+34355813-98fc-4e99-a996-24253b2c478c,Johns Hopkins University,Baltimore,United States,9dc57e19-54db-4d25-a8c6-2b29823a8710
+15457734-19a5-4cde-b94f-45773136fa50,Harvard Center for Population and Development Studies,Cambridge,United States,d4ce7679-e67b-463b-9400-7a2ce00ba822
+b881dd94-8dcf-4126-816e-d6bb29bb6c8f,Aix Marseille Université,Marseille,France,775b6821-4eb0-4814-a9c5-ebfa4c16b3d7
+ba15248f-f2a3-4379-aaf3-06b8d0c7d46c,Johannes Gutenberg-Universität Mainz,Mainz,Germany,af3aec01-a327-4bb0-a7b3-63edc73c0531
+8a87093d-4d27-4dcc-b2cc-db2c14249528,Bundesanstalt für Geowissenschaften und Rohstoffe,Hannover,Germany,6eb835ad-5ed3-4947-ae27-6d1dfab6c4a8
+7ec22fae-fe11-4a15-ae8f-97530c57618f,Johns Hopkins Bloomberg School of Public Health,Baltimore,United States,f734f718-e6f3-46f4-a8b8-73a58678884b
+1e78933c-9558-4a51-843e-ebfa724bdee6,Municipal Health Service of Amsterdam,Amsterdam,Netherlands,ccab72c7-4e6a-4916-bb32-d4afbbb96a9c
+6033c749-4a73-4c60-afbf-40828e1163a7,Penn State Harrisburg,Middletown,United States,db38abf0-88fb-49d4-958a-d3a96f540f36
+59d8e481-cfda-4fcc-9edb-049a2f87e57c,EMRL/PSH,Middletown,United States,db38abf0-88fb-49d4-958a-d3a96f540f36
+8475d12d-a50e-4dc1-bafd-17b93517d05b,University of Wisconsin-Madison,Madison,United States,f9b23201-e64f-4ff1-837c-081c137c95e7
+bfde0c5f-4c7e-41e2-814c-a8ad234f4348,MRC Cognition and Brain Sciences Unit,Cambridge,United Kingdom,17d89598-045d-40d9-b7eb-80445340462c
+5c4ba762-ff76-4862-ae8c-ace7b27717f1,Michigan State University,East Lansing,United States,dd79fee3-7276-4247-9082-6a45c3c81451
+d3aa6585-5eaf-4a46-a325-fe504f5b6215,United States Agency for International Development,"Washington, D.C.",United States,9597fa41-74e3-4089-9f5a-e44855c6a53f
+955f4711-f034-495b-8eb5-31e98a53ef7c,"University of Michigan, Ann Arbor",Ann Arbor,United States,187deba9-1f45-43b0-9d37-c905bf6d30e0
