@@ -84,10 +84,9 @@ while request_count < max_requests:
         print(f"Erreur {response.status_code}: {response.text}")
         break
 
-# Convert the results into a JSON string
+
 json_data = json.dumps(all_results, indent=4, ensure_ascii=False)
 
-# Upload the JSON data directly to Azure Data Lake
 blob_name = "scopus_exports/morocco_affiliations.json"
 blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
 blob_client.upload_blob(io.BytesIO(json_data.encode()), overwrite=True)
